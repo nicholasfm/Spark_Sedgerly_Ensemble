@@ -1,0 +1,5 @@
+Qld_Dev/Outputs/**
+Qld_GIS_Data/*
+!Qld_GIS_Data/_Fuel_Definitions_
+Qld_GIS_Data/_Fuel_Definitions_/*
+!Qld_GIS_Data/_Fuel_Definitions_/63_Fuels\ V2_SWR.xml

@@ -1,0 +1,66 @@
+,,,,Vesta,,,CSIRO Grasslands,Heathland,,Semi-arid Mallee Heath,,Modified McArthur Attributes,,,,,,,,,,,,,,,,,,
+Phoenix fuel number,Description,Spark model number,Spark model description,Self_Extinction,FHSns, Hns,speed_red_factor,R0,WRF,Fuel_Height,Overstorey_Mallee_Cover,Crowning_Height,Crowning_Load_Pcnt,El_Engage_Height,Bk_Engage_Height,SpeedReduce_Surface,SpeedReduce_ElevBark,SpeedReduce_Crown,,,,,,,,,,,,
+0,No Data,0,No Burn,100000,,,,,,0,,0,0,0,0,0,0,0,,0,0.010362554,0.007921815,0.02,0%,57%,43%,,,,
+1,Mesophyll to Notophyll vine forest sparse,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.15,0.2,1.05,,4.497858475,2.105182572,0.007921815,6.61,68%,32%,0%,,0.32,0.68,1
+2,Semi-evergreen to deciduous microphyll vine forest,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.19,0.25,1.05,,5.978426954,0.010362554,0.007921815,6,100%,0%,0%,,0,1,1
+3,Wet Eucalypt tall open forst,1,McArthur Matthews Layered,120,,,,,,40,,24,1,1,2,0.25,0.33,1.05,,24.07166117,2.017546159,0.990712443,27.08,89%,7%,4%,,0.11,0.93,0.96
+4,Wet eucalypt tall woodland,1,McArthur Matthews Layered,120,,,,,,40,,24,1,1,2,0.25,0.33,1.05,,21.06691923,1.713564878,1.978545977,24.76,85%,7%,8%,,0.15,0.93,0.92
+5,Moist to dry eucalypt open forests on coastal lowlands and ranges,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.21,0.29,1.05,,20.89225475,2.13870238,0.991047262,24.02,87%,9%,4%,,0.13,0.91,0.96
+6,Moist to dry eucalypt woodland on coastal lowlands and ranges,1,McArthur Matthews Layered,60,,,,,,15,,7,1,1,2,0.75,0.9,1.05,,14.895641,1.296826615,0.991813427,17.18,87%,8%,6%,,0.13,0.92,0.94
+7,Shrubland within moist to dry eucalypt on coastal lowlands and ranges,9,Advanced Shrubland / Heath,120,,,,,,4,,2.4,1,0.5,1.5,0.21,0.29,1.1,,10.71049495,1.873775812,0.007921815,12.59,85%,15%,0%,,0.15,0.85,1
+8,Spotted gum dominated open forests / woodlands,1,McArthur Matthews Layered,60,,,,,,15,,7,1,1,2,0.75,0.9,1.05,,19.21830898,1.491204962,0.007921815,20.72,93%,7%,0%,,0.07,0.93,1
+9,Moist to dry eucalypt woodlands on basalt areas,1,McArthur Matthews Layered,120,,,,,,30,,18,1,1,2,0.75,0.9,1.05,,11.49676186,2.365743477,0.991813427,14.85,77%,16%,7%,,0.23,0.84,0.93
+10,Dry eucalypt open forests / woodlands on sandstone and shallow soils,1,McArthur Matthews Layered,120,,,,,,18,,6,1.1,1,2,0.75,0.9,1.05,,18.41367403,1.737644262,0.990712443,21.14,87%,8%,5%,,0.13,0.92,0.95
+11,Dry to moist eucalypt open forests / woodlands on undulating metamorphics and granite,1,McArthur Matthews Layered,100,,,,,,15,,9,1,1,2,0.75,0.9,1.05,,19.29890939,1.358018502,0.990712443,21.65,89%,6%,5%,,0.11,0.94,0.95
+12,Shrubland associated with dry to moist eucalypt woodlands on undulating terrain,6,Advanced Shrubland / Heath,120,,,,,,4,,2.4,1,1,2,0.3,0.4,1.05,,6.58304419,0.837400507,0.007921815,7.43,89%,11%,0%,,0.11,0.89,1
+13,"Open forests / woodlands dominated by Darwin Stringybark, Melville Island bloodwood or scarlet gum",1,McArthur Matthews Layered,120,,,,,,35,,21,1,1,2,0.3,0.4,1.05,,23.67345525,3.264261537,1.977288283,28.92,82%,11%,7%,,0.18,0.89,0.93
+14,"Sparsely vegetated areas associated with Darwin stringybark, Melville Island bloodwood or scarlet gum or drainage lines",1,McArthur Matthews Layered,120,,,,,,15,,9,1,1,2,0.49,0.67,1.05,,0.324491721,1.164572076,0.007921815,1.5,22%,78%,1%,,0.78,0.22,0.99
+15,Temperate open eucalypt forests,1,McArthur Matthews Layered,120,,,,,,35,,21,1,1,2,0.25,0.5,1.05,,23.87169724,1.738355854,0.991047262,26.6,90%,7%,4%,,0.1,0.93,0.96
+16,Temperate eucalypt woodlands,1,McArthur Matthews Layered,120,,,,,,15,,7,1,1,2,0.37,0.5,1.05,,11.98272585,1.766121016,0.007921815,13.76,87%,13%,0%,,0.13,0.87,1
+17,Eucalyptus dominated forest on drainage lines and alluvial plains,1,McArthur Matthews Layered,120,,,,,,35,,21,1,1,2,0.25,0.33,1.05,,13.70916594,1.140915952,0.991047262,15.84,87%,7%,6%,,0.13,0.93,0.94
+18,Eucalyptus dominated woodland on drainage lines and alluvial plains,1,McArthur Matthews Layered,60,,,,,,20,,12,1,1,2,0.75,0.9,1.05,,11.02443354,0.449583674,0.007921815,11.48,96%,4%,0%,,0.04,0.96,1
+19,Shrubland associated with eucalyptus woodlands on drainage lines,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.37,0.5,1.05,,8.486483494,0.088612502,0.007921815,8.58,99%,1%,0%,,0.01,0.99,1
+20,Sedgeland associated with Eucalyptus woodlands on drainage lines,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.57,0.77,1.05,,7.221697595,3.464486158,0.007921815,10.69,68%,32%,0%,,0.32,0.68,1
+21,Dry open forests / woodlands on sand or depositional plains,1,McArthur Matthews Layered,120,,,,,,12,,7,1,1,2,0.75,0.9,1.05,,14.63948138,0.589151092,0.007921815,15.24,96%,4%,0%,,0.04,0.96,1
+22,"Low open eucalyptus woodlands dominated by snappy gum, Cloncurry Box or Normanton box",1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.3,0.4,1.05,,7.221646375,0.79751445,0.991813427,9.01,80%,9%,11%,,0.2,0.91,0.89
+23,"Shrubland / Grassland associated with low open eucalypt woodlands dominated by snappy gum, Cloncurry Box or Normanton box",1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.37,0.5,1.05,,4.833056867,1.295363667,0.007921815,6.14,79%,21%,0%,,0.21,0.79,1
+24,Open forests dominated by white cypress pine or coast cypress pine,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,14.76718123,0.589641028,0.991047262,16.35,90%,4%,6%,,0.1,0.96,0.94
+25,Woodlands dominated by white cypress pine or coast cypress pine,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,8.491254834,0.824343759,0.007921815,9.32,91%,9%,0%,,0.09,0.91,1
+26,Melaleuca dry open forest on sandplains or depositional plains,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,11.44370953,1.379957596,1.977869519,14.8,77%,9%,13%,,0.23,0.91,0.87
+27,Melalueca dry woodlands on sandplains or depositional plains,1,McArthur Matthews Layered,-5,,,,,,9,,5,1,1,2,0.25,0.33,1.05,,7.060265672,0.838060232,0.991813427,8.89,79%,9%,11%,,0.21,0.91,0.89
+28,Melaleuca open forests on seasonally inundated lowland coastal swamps,1,McArthur Matthews Layered,-5,,,,,,12,,9,1,1,2,0.25,0.33,1.05,,23.28204903,2.982546799,1.977869519,28.24,82%,11%,7%,,0.18,0.89,0.93
+29,Melaluca woodlands on seasonally inundated lowland coastal swamps,1,McArthur Matthews Layered,-5,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,17.6694726,1.989569085,0.991813427,20.65,86%,10%,5%,,0.14,0.9,0.95
+30,"Mulga / Shrubland / Grassland associated with mulga on red earth plains, sandplains or residuals",1,Advanced Shrubland / Heath,120,,,,,,20,,12,1,1,2,0.62,0.83,1.05,,4.836036498,0.258747868,0.007921815,5.1,95%,5%,0%,,0.05,0.95,1
+31,Acacia open forest / woodlands on residuals,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.3,0.4,1.05,,9.49436429,0.836949665,0.007921815,10.34,92%,8%,0%,,0.08,0.92,1
+32,Shrublands / Grassland associated with Acacia on residuals,1,Advanced Shrubland / Heath,120,,,,,,20,,12,1,1,2,0.49,0.67,1.05,,4.833170501,2.076774351,0.007921815,6.92,70%,30%,0%,,0.3,0.7,1
+33,Brigalow belah open forests / woodlands on heavy clay soils,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,13.05627789,1.846013687,0.007921815,14.91,88%,12%,0%,,0.12,0.88,1
+34,Brigalow belah woodlands on heavy clay soils,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,5.466932696,0.641970701,0.007921815,6.12,89%,10%,0%,,0.11,0.9,1
+35,Gidgee blackwood dominated open forest,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,6.980287461,1.337312488,0.007921815,8.33,84%,16%,0%,,0.16,0.84,1
+36,Gidgee blackwood woodland,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.3,0.4,1.05,,3.594387371,1.447164471,0.007921815,5.05,71%,29%,0%,,0.29,0.71,1
+37,"Mixed species open forests / woodlands dominated by western whitewood, boree or wooded downs",1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.3,0.4,1.05,,4.497858475,0.249479562,0.007921815,4.76,95%,5%,0%,,0.05,0.95,1
+38,Grassland communities associated with mixed spcies woodlands,4,CSIRO Grasslands,120,,,,,,20,,12,1,1,2,0.62,0.83,1.05,,4.070646885,0.010362554,0.007921815,4.09,100%,0%,0%,,0,1,1
+39,Sedgeland communities associated with mixed species woodlands,4,CSIRO Grasslands,120,,,,,,20,,12,1,1,2,0.49,0.67,1.05,,5.867241507,0.10898764,0.007921815,5.98,98%,2%,0%,,0.02,0.98,1
+40,Open forests in coastal locations with species such as she-oak or swamp box,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,24.07166118,1.930259727,0.007921815,26.01,93%,7%,0%,,0.07,0.93,1
+41,Shrubland / Woodlands in coastal locations,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.3,0.4,1.05,,17.00976262,2.467685826,0.007921815,19.49,87%,13%,0%,,0.13,0.87,1
+42,Grassland associated with woodlands in coastal locations,4,CSIRO Grasslands,120,,,,,,2,,2,1,1,2,0.62,0.83,1.05,,3.814484381,0.248503263,0.007921815,4.07,94%,6%,0%,,0.06,0.94,1
+43,Sedgeland associated with woodlands in coastal locations,4,CSIRO Grasslands,120,,,,,,20,,12,1,1,2,0.3,0.4,1.05,,7.221697595,3.464486158,0.007921815,10.69,68%,32%,0%,,0.32,0.68,1
+44,Forests associated with heathlands and scrubs,6,Advanced Shrubland / Heath,40,,,,,,4,,3,1,1,2,0.25,0.33,1.05,,20.63258286,3.18322893,0.991047262,24.81,83%,13%,4%,,0.17,0.87,0.96
+45,Woodlands / Heathlands associated scrubs and shrublands,9,Advanced Shrubland / Heath,-50,,,,,,0.5,,0.5,1,1,2,0.5,0.7,1,,16.72352021,7.486618836,0.007921815,24.22,69%,31%,0%,,0.31,0.69,1
+46,"Grassland / Sedgeland communities associated with heathlands, scrubs and shrublands",6,Advanced Shrubland / Heath,20,,,,,,2,,0.5,1,1,2,0.8,0.8,1.05,,9.494364133,3.460963803,0.007921815,12.96,73%,27%,0%,,0.27,0.73,1
+47,Woodlands / Shrublands associated with Mitchell grass or bluegrass,4,CSIRO Grasslands,120,,,,,,20,,12,1,1,2,0.37,0.5,1.05,,3.878030183,1.38093764,0.007921815,5.27,74%,26%,0%,,0.26,0.74,1
+48,Sedgelands associated with Mitchell grass or bluegrass,4,CSIRO Grasslands,80,,,,,,20,,12,1,1,2,0.49,0.67,1.05,,5.867241505,0.108973352,0.007921815,5.98,98%,2%,0%,,0.02,0.98,1
+49,Woodlands / Shrublands associated with inland forblands to tussock grasslands,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.3,0.4,1.05,,3.973970876,1.381002552,0.007921815,5.36,74%,26%,0%,,0.26,0.74,1
+50,Mixed open forblands to tussock grasslands in inland locations,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.49,0.67,1.05,,2.691978943,0.049270276,0.007921815,2.75,98%,2%,0%,,0.02,0.98,1
+51,Woodlands / Shrubland associated with coastal tussock grasslands,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.37,0.5,1.05,,6.861015002,1.38093764,0.007921815,8.25,83%,17%,0%,,0.17,0.83,1
+52,Shrublands / Sedgeland associated with hummock grasslands / grasslands dominated by spinifex or sandhill canegrass,7,Hummock spinifex grasslands,120,,,,,,20,,12,1,1,2,0.49,0.67,1.05,,2.807077788,1.379479511,0.007921815,4.19,67%,33%,0%,,0.33,0.67,1
+53,Open forest dominated wetlands,1,McArthur Matthews Layered,120,,,,,,20,,12,1,1,2,0.25,0.33,1.05,,7.633058068,6.361351447,0.991047262,14.99,51%,42%,7%,,0.49,0.58,0.93
+54,Woodland / Shrubland / Grass dominated by wetlands,1,McArthur Matthews Layered,120,,,,,,3.5,,2,1,1,2,0.37,0.5,1.05,,8.099002881,2.79216094,0.991813427,11.88,68%,23%,8%,,0.32,0.77,0.92
+55,Mangroves / Sedgeland dominated wetlands and tidal saltmarshes,6,Advanced Shrubland / Heath,20,,,,,,3,,2,1,1,2,0.3,0.4,1.05,,11.7651153,0.216150291,0.007921815,11.99,98%,2%,0%,,0.02,0.98,1
+56,Exotic & hardood plantation,1,McArthur Matthews Layered,120,,,,,,25,,10,1,1,2,0.21,0.29,1.05,,23.64699629,1.008530241,0.945346363,25.6,92%,4%,4%,,0.08,0.96,0.96
+57,Hoop plantations,1,McArthur Matthews Layered,120,,,,,,15,,9,1,1,2,0.21,0.29,1.05,,4.973766722,0.010362554,0.007921815,4.99,100%,0%,0%,,0,1,1
+58,Cropping and Horticulture,1,McArthur Matthews Layered,120,,,,,,2,,1,1,1,2,0.49,0.67,1.05,,3.719708148,0.010362554,0.007921815,3.74,100%,0%,0%,,0,1,1
+59,Low to moderate tree cover in built-up areas,1,McArthur Matthews Layered,120,,,,,,5,,3,1,1,2,0.37,0.5,1.05,,4.973733779,1.989601338,0.991813427,7.96,63%,25%,12%,,0.37,0.75,0.88
+60,Low grass or tree cover in rural areas,4,CSIRO Grasslands,60,,,,,,0.5,,1,1,1,2,0.49,0.67,1.05,,3.973996254,0.98205135,0.007921815,4.96,80%,20%,0%,,0.2,0.8,1
+61,Low grass or tree cover in built-up areas,1,McArthur Matthews Layered,60,,,,,,0.25,,1,1,1,2,0.49,0.67,1.05,,2.985682175,0.010362554,0.007921815,3,99%,0%,0%,,0.01,1,1
+62,Nil to very low vegetation cover,0,No Burn,120,,,,,,0.1,,1,1,1,2,0.62,0.83,1.05,,1.965279149,0.010362554,0.007921815,1.98,99%,1%,0%,,0.01,0.99,1
+63,Water bodies or very low vegetation cover,0,No Burn,120,,,,,,0,,0,0,0,0,0,0,0,,,,,,,,,,,,

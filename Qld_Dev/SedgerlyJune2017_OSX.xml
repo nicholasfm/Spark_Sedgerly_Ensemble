@@ -1,0 +1,1629 @@
+<!DOCTYPE serializeddata>
+<operation>
+ <input globalname="Bounding box">
+  <CRS>EPSG:4326</CRS>
+  <minx>150</minx>
+  <miny>-28.5</miny>
+  <maxx>152</maxx>
+  <maxy>-28</maxy>
+  <resx>0</resx>
+  <resy>0</resy>
+ </input>
+ <input globalname="Bounding box toggle">1</input>
+ <input globalname="Curing/Layer default">85</input>
+ <input globalname="Curing/Layer projection WKT">GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]]</input>
+ <input globalname="Curing/Layer source file"></input>
+ <input globalname="Elevation/Layer default">0</input>
+ <input globalname="Elevation/Layer projection WKT">PROJCS["GDA94 / Geoscience Australia Lambert",GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]],UNIT["metre",1,AUTHORITY["EPSG","9001"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["standard_parallel_1",-18],PARAMETER["standard_parallel_2",-36],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",134],PARAMETER["false_easting",0],PARAMETER["false_northing",0],AUTHORITY["EPSG","3112"],AXIS["Easting",EAST],AXIS["Northing",NORTH]]</input>
+ <input globalname="Elevation/Layer source file">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_GIS_Data/SWR/DEM_SWR.tiff</input>
+ <input globalname="Fire history/Layer default">20</input>
+ <input globalname="Fire history/Layer projection WKT">PROJCS["GDA94 / Geoscience Australia Lambert",GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]],UNIT["metre",1,AUTHORITY["EPSG","9001"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["standard_parallel_1",-18],PARAMETER["standard_parallel_2",-36],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",134],PARAMETER["false_easting",0],PARAMETER["false_northing",0],AUTHORITY["EPSG","3112"],AXIS["Easting",EAST],AXIS["Northing",NORTH]]</input>
+ <input globalname="Fire history/Layer source file">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_GIS_Data/SWR/Fire_History_SWR.tiff</input>
+ <input globalname="Fuel load/Layer default">0</input>
+ <input globalname="Fuel load/Layer projection WKT">GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]]</input>
+ <input globalname="Fuel load/Layer source file"></input>
+ <input globalname="Classification/Layer projection WKT">PROJCS["GDA94 / Geoscience Australia Lambert",GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]],UNIT["metre",1,AUTHORITY["EPSG","9001"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["standard_parallel_1",-18],PARAMETER["standard_parallel_2",-36],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",134],PARAMETER["false_easting",0],PARAMETER["false_northing",0],AUTHORITY["EPSG","3112"],AXIS["Easting",EAST],AXIS["Northing",NORTH]]</input>
+ <input globalname="Classification/Layer source file">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_GIS_Data/SWR/Fuel_SWR.tiff</input>
+ <input globalname="Classification/Shape mask projection WKT">PROJCS["GDA94 / Geoscience Australia Lambert",GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]],UNIT["metre",1,AUTHORITY["EPSG","9001"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["standard_parallel_1",-18],PARAMETER["standard_parallel_2",-36],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",134],PARAMETER["false_easting",0],PARAMETER["false_northing",0],AUTHORITY["EPSG","3112"],AXIS["Easting",EAST],AXIS["Northing",NORTH]]</input>
+ <input globalname="Classification/Shape mask source file"></input>
+ <input globalname="Classification/Shape mask state name"></input>
+ <input globalname="Gridded/Source directory"></input>
+ <input globalname="Gridded/Layer projection WKT">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]</input>
+ <input globalname="Gridded/Start time overwrite"></input>
+ <input globalname="Gridded/Time conversion coefficient">1</input>
+ <input globalname="Gridded/Wind/Layer direction source file"></input>
+ <input globalname="Gridded/Wind/Layer direction source filter">*_Wind_Dir_*</input>
+ <input globalname="Gridded/Wind/Layer direction scale">1</input>
+ <input globalname="Gridded/Wind/Layer direction offset">0</input>
+ <input globalname="Gridded/Wind/Layer direction scheme">0</input>
+ <input globalname="Gridded/Wind/Layer direction opacity">1</input>
+ <input globalname="Gridded/Wind/Layer magnitude source file"></input>
+ <input globalname="Gridded/Wind/Layer magnitude source filter">*_Mag_*</input>
+ <input globalname="Gridded/Wind/Layer magnitude scale">1</input>
+ <input globalname="Gridded/Wind/Layer magnitude offset">0</input>
+ <input globalname="Gridded/Wind/Layer magnitude scheme">0</input>
+ <input globalname="Gridded/Wind/Layer magnitude opacity">1</input>
+ <input globalname="Gridded/Relative humidity/Layer source file"></input>
+ <input globalname="Gridded/Relative humidity/Layer source filter">*_RH_*</input>
+ <input globalname="Gridded/Relative humidity/Layer scale">1</input>
+ <input globalname="Gridded/Relative humidity/Layer offset">0</input>
+ <input globalname="Gridded/Relative humidity/Layer scheme">7</input>
+ <input globalname="Gridded/Relative humidity/Layer opacity">1</input>
+ <input globalname="Gridded/Temperature/Layer source file"></input>
+ <input globalname="Gridded/Temperature/Layer source filter">*_T_*</input>
+ <input globalname="Gridded/Temperature/Layer scale">1</input>
+ <input globalname="Gridded/Temperature/Layer offset">0</input>
+ <input globalname="Gridded/Temperature/Layer scheme">0</input>
+ <input globalname="Gridded/Temperature/Layer opacity">1</input>
+ <input globalname="Gridded/Dew point temperature/Layer source file"></input>
+ <input globalname="Gridded/Dew point temperature/Layer source filter">*Td*</input>
+ <input globalname="Gridded/Dew point temperature/Layer scale">1</input>
+ <input globalname="Gridded/Dew point temperature/Layer offset">0</input>
+ <input globalname="Gridded/Dew point temperature/Layer scheme">0</input>
+ <input globalname="Gridded/Dew point temperature/Layer opacity">1</input>
+ <input globalname="Gridded/Drought factor/Layer source file"></input>
+ <input globalname="Gridded/Drought factor/Layer source filter">*_DF_*</input>
+ <input globalname="Gridded/Drought factor/Layer scale">1</input>
+ <input globalname="Gridded/Drought factor/Layer offset">0</input>
+ <input globalname="Gridded/Drought factor/Layer scheme">0</input>
+ <input globalname="Gridded/Drought factor/Layer opacity">1</input>
+ <input globalname="Custom/Layer name 1">self_extinction</input>
+ <input globalname="Custom/Layer name 2">FHSns</input>
+ <input globalname="Custom/Layer name 3">Hns</input>
+ <input globalname="Custom/Layer name 4">speed_reduce</input>
+ <input globalname="Custom/Layer name 5">fuel_height</input>
+ <input globalname="Custom/Layer name 6">Overstorey_Mallee_Cover</input>
+ <input globalname="Custom/Layer name 7">lb</input>
+ <input globalname="Custom/Layer name 8">ls</input>
+ <input globalname="Custom/Layer name 9">le</input>
+ <input globalname="Custom/Layer name 10">crown_height</input>
+ <input globalname="Custom/Layer default 1">95</input>
+ <input globalname="Custom/Layer default 2">0</input>
+ <input globalname="Custom/Layer default 3">0</input>
+ <input globalname="Custom/Layer default 4">2</input>
+ <input globalname="Custom/Layer default 5">0</input>
+ <input globalname="Custom/Layer default 6">10</input>
+ <input globalname="Custom/Layer default 7">0</input>
+ <input globalname="Custom/Layer default 8">5</input>
+ <input globalname="Custom/Layer default 9">2</input>
+ <input globalname="Custom/Layer default 10">10</input>
+ <input globalname="Custom/Layer file name 1"></input>
+ <input globalname="Custom/Layer file name 2"></input>
+ <input globalname="Custom/Layer file name 3"></input>
+ <input globalname="Custom/Layer file name 4"></input>
+ <input globalname="Custom/Layer file name 5"></input>
+ <input globalname="Custom/Layer file name 6"></input>
+ <input globalname="Custom/Layer file name 7"></input>
+ <input globalname="Custom/Layer file name 8"></input>
+ <input globalname="Custom/Layer file name 9"></input>
+ <input globalname="Custom/Layer file name 10"></input>
+ <input globalname="Custom/Layer projection 1"></input>
+ <input globalname="Custom/Layer projection 2"></input>
+ <input globalname="Custom/Layer projection 3"></input>
+ <input globalname="Custom/Layer projection 4"></input>
+ <input globalname="Custom/Layer projection 5"></input>
+ <input globalname="Custom/Layer projection 6"></input>
+ <input globalname="Custom/Layer projection 7"></input>
+ <input globalname="Custom/Layer projection 8"></input>
+ <input globalname="Custom/Layer projection 9"></input>
+ <input globalname="Custom/Layer projection 10"></input>
+ <input globalname="Series/Script">
+import csv
+
+if fileName != "":
+
+  f = open(fileName, 'rt')
+  rowcount = 0
+  try:
+      reader = csv.reader(f)
+      for row in reader:
+          if (rowcount > 0):
+
+              # Add to time value
+              time.append('%s%s'%(row[0], timeZone));
+
+              # Populate lists
+              temp.append(row[1]);
+              rel_hum.append(row[2]);
+              wind_dir.append(row[3]);
+              wind_speed.append(row[4]);
+              drought_fac.append(row[5]);
+
+          # Increment count
+          rowcount += 1;
+  finally:
+      f.close()</input>
+ <input globalname="Series/Source file">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_Dev/Weather CSVs/SedgerlyModified.csv</input>
+ <input globalname="Series/Time zone">+10:00</input>
+ <input globalname="Initialisation Python input file">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_GIS_Data/_Fuel_Definitions_/63_Fuels V2_SWR.xml</input>
+ <input globalname="Initialisation Python input file 2">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_Dev/Mapped_Fuel_Classification2.csv</input>
+ <input globalname="Initialisation Python script">
+from xml.dom.minidom import parse
+import xml.dom.minidom
+import datetime
+import csv
+
+# Start code block
+initString = "// Auto-generated initialisation code from fuel types\n"
+initString += "REAL sr = 0.0;\n"
+initString += "REAL sk = 0.0;\n"
+initString += "REAL sc = 0.0;\n"
+initString += "REAL er = 0.0;\n"
+initString += "REAL ek = 0.0;\n"
+initString += "REAL ec = 0.0;\n"
+initString += "REAL br = 0.0;\n"
+initString += "REAL bk = 0.0;\n"
+initString += "REAL bc = 0.0;\n"
+initString += "speed_reduce = 1.0;\n"
+initString += "int Spark_ID = class;\n"
+ 
+phoenix_id_list = []
+RoS_ID_list = []
+Fuel_ht_list = []
+Crowning_Ht_list = []
+Self_Ext_list = []
+Crown_Ld_Pcnt_list = []
+El_Eng_Ht_list = []
+Bk_Eng_Ht_List = []
+Spd_Red_Surf_List = []
+Spd_Red_ElBk_List = []
+Spd_Red_Crown_List = []
+
+csv_header_list = ['Phoenix fuel number', 'Description', 'Spark model number', 'Spark model description', 'Self_Extinction', 'FHSns', 'Hns',
+                   'speed_red_factor', 'R0', 'WRF', 'Fuel_Height', 'Overstorey_Mallee_Cover','Crowning_Height', 'Crowning_Load_Pcnt', 'El_Engage_Height',
+				   'Bk_Engage_Height','SpeedReduce_Surface','SpeedReduce_ElevBark','SpeedReduce_Crown'
+]
+
+with open(fileName2, 'rt') as f:
+    cf = csv.DictReader(f, fieldnames=csv_header_list)
+
+    for index, row in enumerate(cf):
+
+        # Skip first two rows
+        if index &lt; 2:
+            continue
+
+        # Add class name
+        classNames.append(row['Description'])
+
+        # Copy data
+        phoenix_id_list.append((row['Phoenix fuel number']))
+        RoS_ID_list.append((row['Spark model number']))
+        try:
+            if float(row['Fuel_Height']) > 0:
+                Fuel_ht_list.append(row['Fuel_Height'])
+            else:
+                Fuel_ht_list.append("0")
+        except:
+            Fuel_ht_list.append("0")
+         
+        try:
+            if float(row['Crowning_Height']) > 0:
+                Crowning_Ht_list.append(row['Crowning_Height'])
+            else:
+                Crowning_Ht_list.append("0")
+        except:
+            Crowning_Ht_list.append("0")
+
+        try:
+            if float(row['Self_Extinction']) > 0:
+                Self_Ext_list.append(row['Self_Extinction'])
+            else:
+                Self_Ext_list.append("0")
+        except:
+            Self_Ext_list.append(row['Self_Extinction'])
+            
+        try:
+            if float(row['Crowning_Load_Pcnt']) > 0:
+                Crown_Ld_Pcnt_list.append(row['Crowning_Load_Pcnt'])
+            else:
+                Crown_Ld_Pcnt_list.append("0")
+        except:
+            Crown_Ld_Pcnt_list.append(row['Crowning_Load_Pcnt'])
+
+        try:
+            if float(row['El_Engage_Height']) > 0:
+                El_Eng_Ht_list.append(row['El_Engage_Height'])
+            else:
+                El_Eng_Ht_list.append("0")
+        except:
+            El_Eng_Ht_list.append(row['El_Engage_Height'])
+
+
+        try:
+            if float(row['Bk_Engage_Height']) > 0:
+                Bk_Eng_Ht_List.append(row['Bk_Engage_Height'])
+            else:
+                Bk_Eng_Ht_List.append("0")
+        except:
+            Bk_Eng_Ht_List.append(row['Bk_Engage_Height'])
+
+        try:
+            if float(row['SpeedReduce_Surface']) > 0:
+                Spd_Red_Surf_List.append(row['SpeedReduce_Surface'])
+            else:
+                Spd_Red_Surf_List.append("0")
+        except:
+            Spd_Red_Surf_List.append(row['SpeedReduce_Surface'])
+
+        try:
+            if float(row['SpeedReduce_ElevBark']) > 0:
+                Spd_Red_ElBk_List.append(row['SpeedReduce_ElevBark'])
+            else:
+                Spd_Red_ElBk_List.append("0")
+        except:
+            Spd_Red_ElBk_List.append(row['SpeedReduce_ElevBark'])
+
+        try:
+            if float(row['SpeedReduce_Crown']) > 0:
+                Spd_Red_Crown_List.append(row['SpeedReduce_Crown'])
+            else:
+                Spd_Red_Crown_List.append("0")
+        except:
+            Spd_Red_Crown_List.append(row['SpeedReduce_Crown'])
+
+phoenix_id_list_string = "{" + ",".join(phoenix_id_list)[0:] + "}"
+RoS_ID_list_string = "{" + ",".join(RoS_ID_list)[0:] + "}"
+Fuel_ht_list_string = "{" + ",".join(Fuel_ht_list)[0:] + "}"
+Crowning_Ht_list_string = "{" + ",".join(Crowning_Ht_list)[0:] + "}"
+Self_Ext_list_string = "{" + ",".join(Self_Ext_list)[0:] + "}"
+Crown_Ld_Pcnt_list_string = "{" + ",".join(Crown_Ld_Pcnt_list)[0:] + "}"
+El_Eng_Ht_list_string = "{" + ",".join(El_Eng_Ht_list)[0:] + "}"
+Bk_Eng_Ht_List_string = "{" + ",".join(Bk_Eng_Ht_List)[0:] + "}"
+Spd_Red_Surf_List_string = "{" + ",".join(Spd_Red_Surf_List)[0:] + "}"
+Spd_Red_ElBk_List_string = "{" + ",".join(Spd_Red_ElBk_List)[0:] + "}"
+Spd_Red_Crown_List_string = "{" + ",".join(Spd_Red_Crown_List)[0:] + "}"
+
+
+initString += "int Phoenix_ID[] = {0};\n".format(phoenix_id_list_string)
+initString += "int RoS_ID[] = {0};\n".format(RoS_ID_list_string)
+initString += "REAL Fuel_ht[] = {0};\n".format(Fuel_ht_list_string)
+initString += "REAL Crowning_Ht[] = {0};\n".format(Crowning_Ht_list_string)
+initString += "REAL Self_Ext[] = {0};\n".format(Self_Ext_list_string) 
+initString += "REAL Crown_Ld_Pcnt[] = {0};\n".format(Crown_Ld_Pcnt_list_string) 
+initString += "REAL El_Eng_Ht[] = {0};\n".format(El_Eng_Ht_list_string)
+initString += "REAL Bk_Eng_Ht[] = {0};\n".format(Bk_Eng_Ht_List_string)
+initString += "REAL Spd_Red_Surf[] = {0};\n".format(Spd_Red_Surf_List_string) 
+initString += "REAL Spd_Red_ElBk[] = {0};\n".format(Spd_Red_ElBk_List_string) 
+initString += "REAL Spd_Red_Crown[] = {0};\n".format(Spd_Red_Crown_List_string) 
+initString += "switch(Phoenix_ID[Spark_ID]) {\n"
+
+
+# Parse xml
+xmlTree = xml.dom.minidom.parse(fileName);
+fuelTypes = xmlTree.documentElement.getElementsByTagName("Fuel_Type")
+ 
+for fuelType in fuelTypes:
+  id = fuelType.getElementsByTagName("Id")[0].childNodes[0].data
+  name = fuelType.getElementsByTagName("Type_Name")[0].childNodes[0].data
+  sr = fuelType.getElementsByTagName("Surface_r")[0].childNodes[0].data
+  sk = fuelType.getElementsByTagName("Surface_k")[0].childNodes[0].data
+  sc = fuelType.getElementsByTagName("Surface_c")[0].childNodes[0].data
+  er = fuelType.getElementsByTagName("Elevated_r")[0].childNodes[0].data
+  ek = fuelType.getElementsByTagName("Elevated_k")[0].childNodes[0].data
+  ec = fuelType.getElementsByTagName("Elevated_c")[0].childNodes[0].data
+  br = fuelType.getElementsByTagName("Bark_r")[0].childNodes[0].data
+  bk = fuelType.getElementsByTagName("Bark_k")[0].childNodes[0].data
+  bc = fuelType.getElementsByTagName("Bark_c")[0].childNodes[0].data
+  wr = fuelType.getElementsByTagName("Wind_Reduction_Factor")[0].childNodes[0].data
+  initString += "\n    // {0}\n    case {1}: sr = {2}; sk = {3}; sc = {4}; er = {5}; ek = {6}; ec = {7}; br = {8}; bk = {9}; bc = {10}; speed_reduce = 1.0/{11}; break;\n".format(name, id, sr, sk, sc, er, ek, ec, br, bk, bc, wr)
+ 
+initString += "}\n\n"
+
+# Get simulation time
+initString += "int now_yy = {0};\n".format(startTime[0:4])
+initString += "int now_mm = {0};\n".format(startTime[5:7])
+initString += "int now_dd = {0};\n".format(startTime[8:10])
+
+initString += "\n// End of auto-generated code\n\n"
+&amp;#160;</input>
+ <input globalname="Initialisation end string">
+// Calculate years since burn
+REAL years_since_burn = 30.0;
+if (fire_history > 0) {
+
+  int date = (int)fire_history;
+  int yy = date/10000;
+  int mm = (date/100)%100;
+  int dd = date%100;
+
+  REAL JD_fuel = JulianDate(yy, mm, dd);
+  REAL JD_now = JulianDate(now_yy, now_mm, now_dd); // 'now_' generated by Python script
+
+  // Cap burn years to 30
+ REAL days_since_burn = JD_now-JD_fuel;
+if (days_since_burn > 0.0) years_since_burn = min(days_since_burn /365.0, 30.0);
+
+}
+
+// Calculate surface fuel load
+REAL HC_s = sr*(1.0-exp(-sk*years_since_burn))+sc;
+ls = (-22.17*HC_s)/(-9.605+HC_s);
+
+// Calculate elevated fuel load
+REAL HC_e = er*(1.0-exp(-ek*years_since_burn))+ec;
+le = 11.49/(1.0+1107.8*exp(-1.78*HC_e));
+
+// Calculate bark fuel load
+REAL HC_b = br*(1.0-exp(-bk*years_since_burn))+bc;
+lb = 11.49/(1.0+937.8*exp(-1.905*HC_b));
+
+// Re-map class
+class = RoS_ID[Spark_ID];
+fuel_height = Fuel_ht[Spark_ID];
+crown_height = Crowning_Ht[Spark_ID];
+self_extinction = Self_Ext[Spark_ID];
+crown_load_pcnt = Crown_Ld_Pcnt[Spark_ID];
+Elev_Eng_Ht = El_Eng_Ht[Spark_ID];
+Bark_Eng_Ht = Bk_Eng_Ht[Spark_ID];
+Spd_Reduce_Surface = Spd_Red_Surf[Spark_ID];
+Spd_Reduce_ElevBark = Spd_Red_ElBk[Spark_ID];
+Spd_Reduce_Crown = Spd_Red_Crown[Spark_ID];
+
+// Set class
+if (class != 4) {
+
+   fuel_load = ls+le+lb;
+
+}
+//if(mask == 1){class = 0;}
+// Set outputs
+output0 = 0;
+output1 = 0;
+output2 = 0;
+output3 = 0; 
+output4 = 0;
+
+</input>
+ <input globalname="Initialisation start string"></input>
+ <input globalname="Output isochrone time">3600</input>
+ <input globalname="Output period">3600</input>
+ <input globalname="Output raster file">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_Dev/Outputs/output_arrival.tiff</input>
+ <input globalname="Output shape file">/Users/nick/Code/Spark_SedgerlySetup/Spark QLD/Qld_Dev/Outputs/output_iso.shp</input>
+ <input globalname="Disruption shape source file"></input>
+ <input globalname="Disruption shape projection WKT"></input>
+ <input globalname="Disruption clear state">1</input>
+ <input globalname="Disruption overwrite classification">0</input>
+ <input globalname="Disruption overwrite classification value">0</input>
+ <input globalname="RoS 1">// Dry Eucalypt model - McArthur
+// Stage 1 - Length to bredth ratios as a function of wind speed, based on fitted formulas to CSIRO ROS model book 2015, adapted from Taylor et al 1997.
+// Stage 2 - Calculate FFDI using McArthur and Noble et al. (1980). WS CSIRO 17 Jan 2017
+// Stage 3 - Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development. WS CSIRO 17 Jan 2017
+// Stage 4 - Raw McAurthur directionl ROS / Speed from surface fuel first. WS CSIRO 17 Jan 2017
+// Stage 5 - Layered engagement of flames into fuel profile. WS CSIRO 17 Jan 2017
+// Stage 6 - Now adjust for Leaflet 80 reduced spread, Ben Twomey - % Roll off function between Mk5 and Leaflet 80. Ben Twomey (FBAN) (BT) QFES 20 Jan 2017   
+// Stage 7 - Calculate and apply slope effect. WS CSIRO 17 Jan 2017
+
+//Implemented / modified by Ben Twomey from FBAN Spreadsheet and CSIRO Publications
+// -------------------------------------------
+// Main Model parameters
+// 1. Temperature, 'temp' (input)
+// 2. Relative humidity, 'rel_hum' (input)
+// 3. Drought factor, 'drought_fac'
+// 4. Fuel load, 'fuel_load' (input)
+// 5. U10 
+
+//Outputs
+// 6. Length to Breaddth Ratio (LBR)
+// 7. FFDI (Matthews method)
+// 8. speed_fraction (multiplier to adjust raw non-directional speed as function of wind vector to produce elliptical fire spread
+// 9. head_spead (raw ROS from McAurthur Mk 5
+//11. s_flame_height is surface fuel flame height
+//12. e_s_flame_height is combined surface and elevated fuel flame height
+//13. flame_height is all surface, elevated and bark flame_height.
+// -------------------------------------------
+REAL WRF;
+REAL ls_WRF;// % Change to Original WRF = 8.6381 * U10*EXP(-0.683)
+REAL e_to_s_proportion; //% of elevated fuel contribution to elevated and surface fuel loads.
+REAL le_WRF;
+REAL Crown_WRF;
+
+REAL U10 = length(wind_vector);
+REAL U2 = U10*speed_reduce;
+
+REAL head_speed;
+REAL LBR;
+REAL L80Speed_Fraction;
+REAL SpotDistance;
+
+REAL s_flame_height;
+REAL e_s_flame_height;
+REAL e_s_b_flame_height;
+REAL crown_flame_height;
+REAL final_flame_height;
+
+REAL s_intensity;
+REAL e_s_intensity;
+REAL e_s_b_intensity;
+REAL crown_intensity;
+REAL final_intensity;
+
+REAL FFDI;
+REAL ROS_Type;
+REAL Crown_Fuel_Multiplier;
+REAL MC;
+REAL s_speed_reduce;
+REAL e_speed_reduce;
+REAL b_speed_reduce;
+REAL c_speed_reduce;
+
+// Stage 1 - Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-30),20);
+REAL slope_coeff = pow(2.0, 0.1*slope_in_normal_dir);
+
+// Stage 2 - Calculate Baseline FMC and FFDI using Matthews (2009) reformulation of FFDI based on Fuel Moisture
+MC = 5.658 + 0.04651 * rel_hum + 0.0003151 * pow(rel_hum, 3) * pow(temp, -1) - 0.185 * pow(temp, 0.77);
+//FFDI = 2.0*exp(-0.450 + 0.987*log(drought_fac) - 0.0345*rel_hum + 0.0338*temp + 0.0234*speed_reduce*U10);//Old McArthur FDI calculation
+REAL Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10);
+FFDI = Matthews_FFDI;
+
+
+WRF = 1/speed_reduce;
+
+// Stage 4 - Calculate eliptical shape of fire development via LBR method for 10m winds
+if (U10 &lt; 5)
+    {
+    LBR = 1;
+    }
+else{
+    LBR = -0.00004 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10 + 0.9385;    
+    }
+
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+L80Speed_Fraction = 1;	
+SpotDistance = 0;
+
+
+//**********************Calculate Surface Layer ROS and Charecteristics****************************************
+//************************************************************************************************************
+
+// Stage 5 - Raw McAurthur directionl ROS / Speed from surface fuel first wuth Matthews FFDI
+Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*0.45);
+//********************************************************************************
+head_speed = 0.0012 * Matthews_FFDI * ls  * 1000 * slope_coeff * speed_fraction;
+//********************************************************************************
+
+// Stage 6 - Layered engagement of flames into fuel profile
+// Calculate flame height of surface / near surface fuels based on McArthur formula found in QFES speadsheet
+s_flame_height = 13 * head_speed / 1000 + 0.24 * ls - 2;
+final_flame_height = s_flame_height;
+
+s_intensity = 516.7*ls*drought_fac/10*head_speed/ 1000;
+final_intensity = s_intensity;
+//Now incorporating elevated fuels if surface flame height >1m
+ROS_Type = 1;
+
+
+    //**********************Calculate ELevated Layer ROS and Charecteristics****************************************
+    //************************************************************************************************************
+
+	if (final_flame_height > 2)//Engage elevated fuels
+		{
+        // Stage 4 - Calculate eliptical shape of fire development via LBR method for surface layer winds
+        if (U10 &lt; 5)
+            {
+            LBR = 1;
+            }
+        else{
+            LBR = -0.00004 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10 + 0.9385;    
+            }
+
+        cc = sqrt(1 - pow(LBR,-2));
+        cb = (1 - cc) / (1 + cc);
+        a_LBR = (cb + 1)/2;
+        cf = a_LBR / LBR;
+        a = cf - cb;
+        n = log2((1-cb)/a);
+        DOT = dot(normalize(wind_vector),normal_vector);
+        speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*0.75);
+
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * (ls + le)  * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+		
+		e_s_flame_height = 13 * head_speed / 1000 + 0.24*(ls + le) - 2;
+		final_flame_height = e_s_flame_height;
+		
+		e_s_intensity = 516.7*(ls + le)*drought_fac/10*head_speed / 1000;
+		final_intensity = e_s_intensity;
+
+      	ROS_Type =2;			
+		}
+		//Now incorporating bark fuels if flame height >2m
+    //**********************Calculate Bark Layer ROS and Charecteristics****************************************
+    //************************************************************************************************************
+	if (final_flame_height > 3 )//engage bark load as well
+		{
+       
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*0.95);
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * fuel_load * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+
+		e_s_b_flame_height = 13 * head_speed / 1000 + 0.24 * (lb + ls + le) - 2;
+		final_flame_height =  e_s_b_flame_height;
+		
+		e_s_b_intensity = 516.7*fuel_load*drought_fac/10*head_speed/ 1000;
+		final_intensity = e_s_b_intensity;
+
+       if (lb > 0)
+        {
+        SpotDistance = head_speed*(4.17-0.033*U10*speed_reduce)-0.36;
+        }
+    	ROS_Type =3;				
+		}
+    //**********************Calculate Crowning ROS and Charecteristics****************************************
+    //************************************************************************************************************
+
+	if (final_flame_height > crown_height and slope_in_normal_dir >= 0)
+		{
+         if (U10 &lt; 5)
+            {
+            LBR = 1;
+            }
+        else{
+            LBR = -0.00004 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10*1.1 + 0.9385;    
+            }
+
+        cc = sqrt(1 - pow(LBR,-2));
+        cb = (1 - cc) / (1 + cc);
+        a_LBR = (cb + 1)/2;
+        cf = a_LBR / LBR;
+        a = cf - cb;
+        n = log2((1-cb)/a);
+        DOT = dot(normalize(wind_vector),normal_vector);
+        speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*1.1);
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * ((ls + le + lb)*crown_load_pcnt)  * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+		
+		crown_flame_height = 13 * head_speed / 1000 + 0.24 * ((ls + le + lb)*Crown_Fuel_Multiplier) - 2;
+		final_flame_height =  crown_flame_height ;
+		
+		crown_intensity = 516.7*fuel_load*drought_fac/10*head_speed/ 1000;
+		final_intensity = crown_intensity;
+      
+        if (lb > 0)
+        {
+        SpotDistance = head_speed*(4.17-0.033*U10*0.9)-0.36;
+        }
+       ROS_Type =4;
+		}
+
+speed = head_speed /3600;// Converting spread rate into m/s
+
+
+output0 = fuel_load;
+output1 = head_speed;
+output2 = ROS_Type;
+output3 = final_intensity;
+</input>
+ <input globalname="RoS 2">// Urban model - Place holder for an urban model. Allows head fire to propagate but not flanking or backing.
+
+speed = wind;</input>
+ <input globalname="RoS 3"></input>
+ <input globalname="RoS 4">// CSIRO Grassland model for undisturbed, cut/grazed and eaten out pasture
+
+// -------------------------------------------
+// Model parameters
+//   These must be defined below, or included 
+//   as a user-defined layer
+//
+// 1. Temperature, 'temp' (input)
+// 2. Relative humidity, 'rel_hum' (input)
+// 3. Curing value, 'curing'
+// -------------------------------------------
+
+REAL U10 = length(wind_vector);
+REAL U2 = U10*speed_reduce;
+REAL LBR;
+
+//Stage 1 - Length to bredth ratios as a function of wind speed.
+REAL wind_speed = length(wind_vector);
+REAL LBR_Grass = -1E-06 * pow(U10, 4) + 0.0001*pow(U10, 3)  - 0.0073*pow(U10, 2)  + 0.2635*U10 + 1.0538;
+LBR = LBR_Grass;
+
+// Stage 3 - Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);
+
+//Variabels defining coefficients in Grassland ROS model variations, referenced from Fire Spread Models CSIRO / AFAC Booklet.
+REAL CF_Backing_Slow;
+REAL CF_Backing_Fast;
+REAL CF_Wind_Slow;
+REAL CF_Wind_Fast;
+REAL ROS_Type;
+
+// Calculate curing coefficient from Cruz et al. (2015)
+REAL curing_coeff;
+if ( curing &lt; 20 )
+    curing_coeff = 0;
+else
+    curing_coeff = 1.036 / ( 1 + 103.989 * exp( -0.0996 * (curing - 20) ) );
+
+// Fuel moisture content approximated using McArthur (1966)
+REAL GMf = 9.58 - (0.205*temp) + (0.138*rel_hum);
+
+// Calculate moisture coefficient from Cheney et al. (1998)
+REAL moisture_coeff;
+if ( GMf &lt;= 12 )
+    moisture_coeff = exp( -0.108 * GMf );
+else if ( wind &lt;= 10 )
+    moisture_coeff = 0.684 - 0.0342 * GMf;
+else
+    moisture_coeff = 0.547 - 0.0228 * GMf;
+
+if (fuel_load &lt; 2)//Eaten out
+    {  
+    CF_Backing_Slow = 0.027;
+    CF_Backing_Fast = 0.55;
+    CF_Wind_Slow = 0.1045;
+    CF_Wind_Fast = 0.357;
+    }
+else if (fuel_load >= 2 &amp;&amp; fuel_load &lt; 3)//Cut or grazed
+    {
+    CF_Backing_Slow = 0.054;
+    CF_Backing_Fast = 1.1;
+    CF_Wind_Slow = 0.209;
+    CF_Wind_Fast = 0.715;    
+    }
+else//Natural
+    {
+    CF_Backing_Slow = 0.054;
+    CF_Backing_Fast = 1.4;
+    CF_Wind_Slow = 0.269;
+    CF_Wind_Fast = 0.838;  
+    }
+ 
+// Calculate spread rate from Cheney et al. (1998) (need to convert spread rate to m/s from km/hr)
+if ( wind >= 5.0 )
+    speed = ( CF_Backing_Fast + CF_Wind_Fast * pow( (wind - 5), 0.844 ) ) * moisture_coeff * curing_coeff / 3.6;
+else
+    speed = (CF_Backing_Slow + CF_Wind_Slow * wind) * moisture_coeff * curing_coeff / 3.6; 
+
+// Stage 1 - Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-30),20);
+REAL slope_coeff = pow(2.0, 0.1*slope_in_normal_dir);
+
+speed = speed * slope_coeff * speed_fraction;
+
+ROS_Type = 7;
+//output1 = ROS_Type;
+//output2 = speed;</input>
+ <input globalname="RoS 5">// Leaflet 80
+
+// -------------------------------------------
+// Model parameters
+// 1. Temperature, 'temp' (input)
+// 2. Relative humidity, 'rel_hum' (input)
+// 3. Fuel load, 'fuel_load' (input), t/ha
+// -------------------------------------------
+
+// Estimating fuel moisture content using Viney and Hatton (1989)
+
+// Adsorption. Equation valid from 12:00pm onwards.
+REAL MC = 6.783 + (0.133*rel_hum) - (0.170*temp);
+
+// Desorption. Equation valid from 6:00am - 12:00pm.
+//REAL MC = 12.519 + (0.112*rel_hum) - (0.282*temp);
+
+// Calculating in-forest wind speed
+REAL wind_speed = length(wind_vector);
+REAL reduced_wind_speed = 1.674 + 0.179*wind_speed;
+
+// Calculating rate of spread in m/min and converting into m/s
+speed = 0.22 * fuel_load * exp(0.158*reduced_wind_speed - 0.227*MC) / 60;
+
+//Stage 1 - Length to bredth ratios as a function of wind speed.
+REAL LBR = 1;
+ 
+if (wind_speed &lt; 5)
+	{
+	LBR = 1;
+	}
+else if (wind_speed &lt; 25)
+	{
+    LBR = 0.9286*exp(wind_speed*0.0505);
+	}
+else
+	{
+	LBR = 0.1143*wind_speed + 0.4143;
+	}
+
+// Stage 3 - Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);
+
+speed = speed * speed_fraction;
+
+// Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-20),20);
+REAL slope_coeff = pow(2.0, 0.1*fabs(slope_in_normal_dir));
+
+if (slope_in_normal_dir >= 0)
+   speed *= slope_coeff;
+else
+   speed *= slope_coeff/(2*slope_coeff-1.0);</input>
+ <input globalname="RoS 6">// Simple Heathland model - Catchpole et al. (1998)
+
+// -------------------------------------------
+// Model parameters
+// These must be defined below, or included as a user-defined layer
+//
+// 1. 10m Wind Speed
+// 2. Vegetation average height
+// -------------------------------------------
+// Jan 2017 Usage guidance - Ben Twomey summarising CSIRO A guide to rate of spread fire models in Australia page 49 Temperate Shrublands
+// The Authors considered the lack of Dead Fine Fuel Moisture Cotent (DFMC) in the formula a major deficiency.  
+// It is reasonable to use it with winds up to 30-40km/hr but if using it, FBAN should 
+// note this model may underpredict when DFMC is below 7% and is likely to oveprredict when moisture is high.
+// Usually these fuels have higher than normal moisture content in spring Sep-Oct, with lots of new growth which is sappy and moist.
+// If conditions of the current fire are outside of these guidelines, consider using Class 9, the advanced Heath Shrubland Model.
+// For most purposes, this model is most likley going to perform well enough in Queensland for predictions up to 12hr out.
+// If predicting overnight, use the advanced model as it deals with solar radiation and DFMC changes through the diurnal cycle.
+
+// Calculate the Length to Breadth ratio for eliptical fire shaping
+//Stage 1 - Length to bredth ratios as a function of wind speed.
+REAL wind_speed = length(wind_vector);
+REAL LBR = 1;
+REAL U10 = length(wind_vector);
+REAL U2 = U10*speed_reduce;
+REAL final_flame_height;
+
+REAL LBR_Forest = -4E-05 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10 + 0.9385;
+REAL LBR_Grass = -1E-06 * pow(U10, 4) + 0.0001*pow(U10, 3)  - 0.0073*pow(U10, 2)  + 0.2635*U10 + 1.0538;
+LBR = LBR_Forest + ((LBR_Grass - LBR_Forest) * 0.5);//I.e. higher flank ROS than forest.  
+
+REAL LBR_Heath = -2E-06*pow(U10, 4) + 0.0001*pow(U10, 3) - 6E-05*pow(U10, 2) + 0.0012*U10 + 1.0108;
+LBR = LBR_Heath;
+
+// Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+// Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-20),20);
+//REAL slope_coeff = pow(2.0, 0.1*fabs(slope_in_normal_dir));
+REAL slope_coeff = pow(2.0, 0.1*slope_in_normal_dir);
+
+//ROS model formulas - from FBAN spreadheet, version for 10m wind speed
+//**************************************************************
+speed = 0.0049*pow(U2, 1.21)*pow(fuel_height, 0.54);
+// Converting spread rate into m/s
+speed = speed * slope_coeff * speed_fraction;
+//**************************************************************
+
+
+//Calculate intensity in kW/m
+REAL final_intensity;
+final_intensity = 18600*ls/10 * speed;
+final_flame_height = 0.01589*pow(final_intensity,0.633);
+
+
+//Outputs 
+REAL ROS_Type;
+ROS_Type = 6;
+
+output0 = fuel_load;
+output1 = speed;
+output2 = ROS_Type;
+output3 = final_intensity;
+</input>
+ <input globalname="RoS 7">// Hummock spinifex grasslands
+// Burrows (2009)
+
+// -------------------------------------------
+// Model parameters
+// 1. Compound fuel moisture content (%), 'moisture' (input)
+// 2. Fuel load (t/ha), 'fuel_load' (input)
+// -------------------------------------------
+
+// Calculating wind speed
+REAL wind_speed = length(wind);
+
+// Calculate dot of wind
+REAL wind_dot = wind/wind_speed;
+
+// Convert 10m wind to 2m
+REAL wind_2m = wind_speed*0.7;
+
+// Fuel moisture content approximated using McArthur (1966) - This does not apply directly to spinifex but is used currently as an approximation.
+REAL moisture = 9.58 - (0.205*temp) + (0.138*rel_hum);
+
+// Calculate spread criteria
+if ((0.57*wind_2m + 0.96*fuel_load - 0.42*moisture - 7.42) > -2.0) {
+
+   // Calculate speed
+   speed = 1581 + 154.9*wind_2m + 140.6*fuel_load - 228.0*moisture;
+
+   // Ensure speed is positive
+   speed = max(speed, 0.0);
+
+   // Convert from m/h to m/s and apply dot
+   speed *= wind_dot*0.000277778;
+}
+else{
+   speed = 0;}
+
+
+//Stage 1 - Length to bredth ratios as a function of wind speed.
+REAL LBR = 1;
+ 
+if (wind_speed &lt; 5)
+	{
+	LBR = 1;
+	}
+else if (wind_speed &lt; 25)
+	{
+    LBR = 0.9286*exp(wind_speed*0.0505);
+	}
+else
+	{
+	LBR = 0.1143*wind_speed + 0.4143;
+	}
+
+// Stage 3 - Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);
+
+speed = speed * speed_fraction;
+
+
+// Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-20),20);
+REAL slope_coeff = pow(2.0, 0.1*fabs(slope_in_normal_dir));
+
+if (slope_in_normal_dir >= 0)
+   speed *= slope_coeff;
+else
+   speed *= slope_coeff/(2*slope_coeff-1.0);</input>
+ <input globalname="RoS 8">// Semi-arid mallee heath model - Cruz et al. (2013)
+
+// This model is for head fires only and needs to be adjusted for flanking and backing fires. 
+// -------------------------------------------
+// Model parameters
+// These must be defined below, or included as a user-defined layer
+//
+// 1. Temperature, 'temp' (input)
+// 2. Relative humidity, 'rel_hum' (input)
+// 3. Mallee overstorey height, 'fuel_height' (input)
+// 4. Overstorey mallee cover, 'Overstorey_Mallee_Cover' (input)
+// 5. Solar radiation factor, 'delta' (input), {0,1}, delta = 1 for sunny days from 12:00 - 17:00 from October to March (high solar radiation) and 0 otherwise.
+// -------------------------------------------
+
+// Initialising the solar radiation variable
+REAL delta;
+
+// Hard coded Overstorey_Mallee_Cover for now in gridded input until it is read in as its own attribute
+
+if (hour > 11 &amp;&amp; hour &lt; 17){
+    delta = 1;}
+else{
+    delta = 0;}
+
+// Calculating moisture content 
+REAL MC = 4.37 + 0.161*rel_hum - 0.1*(temp - 25) - delta * 0.027 * rel_hum;
+
+//Calculating wind speed
+REAL wind_speed = length(wind);
+
+// Calculating the probability of a sustained surface fire
+REAL Ps = 1 / (1 + exp(-(14.62 + 0.207*wind_speed - 1.872*MC - 0.304*Overstorey_Mallee_Cover)));
+
+// Ps threshold of 0.5 to determine whether surface fire will be self sustaining
+if (Ps > 0.5){
+    // Calculating probability of crowning
+    REAL Pc = 1 / (1 + exp(-(-11.138 + 1.4054*wind_speed - 3.4217*MC)));
+
+    // Calculating surface fire rate of spread
+    REAL Rs = 3.337 * wind * exp(-0.1284 * MC) * pow(fuel_height, -0.7073);
+
+    // Calculating crown fire rate of spread
+    REAL Rc = 9.5751 * wind * exp(-0.1795 * MC) * pow(Overstorey_Mallee_Cover/100, 0.3589);
+
+    // Weighting total rate of spread based on probability of crowning
+    speed = (1 - Pc)*Rs + Pc*Rc;
+}
+else{
+    speed = 0;}
+
+// Converting spread rate into m/s
+speed = speed / 60;
+
+//Stage 1 - Length to bredth ratios as a function of wind speed.
+REAL LBR = 1;
+ 
+if (wind_speed &lt; 5)
+	{
+	LBR = 1;
+	}
+else if (wind_speed &lt; 25)
+	{
+    LBR = 0.9286*exp(wind_speed*0.0505);
+	}
+else
+	{
+	LBR = 0.1143*wind_speed + 0.4143;
+	}
+
+// Stage 3 - Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);
+
+speed = speed * speed_fraction;
+
+
+// Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-20),20);
+REAL slope_coeff = pow(2.0, 0.1*fabs(slope_in_normal_dir));
+
+if (slope_in_normal_dir >= 0)
+   speed *= slope_coeff;
+else
+   speed *= slope_coeff/(2*slope_coeff-1.0);</input>
+ <input globalname="RoS 9">// Woodland, Shrubland and Heathland model - Anderson et al. (2015)
+
+// -------------------------------------------
+// Rate of Spread Model parameters
+// These must be defined below, or included as a user-defined layer / read in from a configuration file
+//
+// 1. Temperature deg C, 'temp' (input)
+// 2. Relative humidity %, 'rel_hum' (input)
+// 3. Wind reduction factor, 'WF' (input), read in from Fuel Classification File on initialisation.
+// 4. Average fuel height (m), 'fuel_height' (input)
+// 5. Rate of spread for zero wind m/min, 'R0' (input), recommended as 5 m/min.
+// 6. Solar radiation factor, 'delta' (input), {0,1}, delta = 1 for sunny days from 12:00 - 17:00 from October to March (high solar radiation) and 0 otherwise.
+
+//  The effect of vegetation height is lower than found in the simple heath model (Class 6) Catchpole et al. (1998). Overall, this results in relatively lower rates of
+//  fire spread, commensurate with expectations (Fig. 4.10). The damping effect of dead fuel moisture content was found within the range 
+//  of previous fire spread rate modelling studies in shrubland fuels.
+
+//  NOTE: This model has a -1.5 m/min (~17%) under-prediction bias for the wildfire data, so I have added a 17% compensation factor to the speed as we will be predicting wildfires. 
+
+REAL ROS_Type;
+REAL final_flame_height;
+
+//Stage 1 - Length to bredth ratios as a function of wind speed.
+REAL wind_speed = length(wind_vector);
+REAL U10 = length(wind_vector);
+REAL U2 = U10*speed_reduce;
+REAL LBR;
+
+REAL LBR_Forest = -4E-05 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10 + 0.9385;
+//REAL LBR_Grass = -1E-06 * pow(U10, 4) + 0.0001*pow(U10, 3)  - 0.0073*pow(U10, 2)  + 0.2635*U10 + 1.0538;
+//LBR = LBR_Forest + ((LBR_Grass - LBR_Forest) * -1);//I.e. higher flank ROS than forest.  
+REAL LBR_Heath = -2E-06*pow(U10, 4) + 0.0001*pow(U10, 3) - 6E-05*pow(U10, 2) + 0.0012*U10 + 1.0108;
+LBR = LBR_Heath*.8;
+
+// Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+// Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-20),20);
+//REAL slope_coeff = pow(2.0, 0.1*fabs(slope_in_normal_dir));
+REAL slope_coeff = pow(2.0, 0.1*slope_in_normal_dir);
+
+//Setting zero wind ROS as 5 m/min in lack of other data
+REAL R0 = 5;
+
+// Setting wind reduction factor. 
+REAL WF = speed_reduce;// 1 / WRF
+
+// Initialising the solar radiation variable.
+//Replace this with 1-cloud_cover once we are reading cloud cover in
+REAL delta;
+
+if (hour > 11 &amp;&amp; hour &lt; 17){
+    delta = 1;}
+else{
+    delta = 0;}
+
+// Calculating moisture content 
+REAL MC = 4.37 + 0.161*rel_hum - 0.1*(temp - 25) - delta * 0.027 * rel_hum;
+
+// Calculating rate of spread in m/min
+if (wind &lt; 5){
+    speed = (R0 + 0.2*(5.67*pow(5*WF, 0.91) - R0)*wind) * pow(fuel_height, 0.22) * exp(-0.076*MC);}
+else{
+    speed = 5.67 * pow(WF*wind, 0.91) * pow(fuel_height, 0.22) * exp(-0.076*MC);}
+
+// Converting spread rate into m/s and compensate for shape and slope, and the underprediction bias on wildfires.
+speed = speed / 60 *  slope_coeff * speed_fraction * 1.17;//It underpredicted the wildfire dataset by 17% on average, so add 17% to baseline speed for wildfire.
+//final_flame_height = 13 * speed * 3600 / 1000 + 0.24 * fuel_load - 2;
+
+//Calculate intensity in kW/m
+REAL final_intensity;
+final_intensity = 18600*ls/10 * speed;
+final_flame_height =  0.01589 * pow(final_intensity,0.633);
+if (final_flame_height > crown_height )
+	{
+    ROS_Type =4;
+    }
+else
+    {
+    ROS_Type = 0;
+    }
+
+//  Outputs for assessment and debugging
+
+output0 = fuel_load;
+output1 = speed;
+output2 = ROS_Type;
+output3 = final_intensity;
+</input>
+ <input globalname="RoS 10">// Dry Eucalypt model - McArthur
+// Stage 1 - Length to bredth ratios as a function of wind speed, based on fitted formulas to CSIRO ROS model book 2015, adapted from Taylor et al 1997.
+// Stage 2 - Calculate FFDI using McArthur and Noble et al. (1980). WS CSIRO 17 Jan 2017
+// Stage 3 - Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development. WS CSIRO 17 Jan 2017
+// Stage 4 - Raw McAurthur directionl ROS / Speed from surface fuel first. WS CSIRO 17 Jan 2017
+// Stage 5 - Layered engagement of flames into fuel profile. WS CSIRO 17 Jan 2017
+// Stage 6 - Now adjust for Leaflet 80 reduced spread, Ben Twomey - % Roll off function between Mk5 and Leaflet 80. Ben Twomey (FBAN) (BT) QFES 20 Jan 2017   
+// Stage 7 - Calculate and apply slope effect. WS CSIRO 17 Jan 2017
+
+//Implemented / modified by Ben Twomey from FBAN Spreadsheet and CSIRO Publications
+// -------------------------------------------
+// Main Model parameters
+// 1. Temperature, 'temp' (input)
+// 2. Relative humidity, 'rel_hum' (input)
+// 3. Drought factor, 'drought_fac'
+// 4. Fuel load, 'fuel_load' (input)
+// 5. U10 
+
+//Outputs
+// 6. Length to Breaddth Ratio (LBR)
+// 7. FFDI (Matthews method)
+// 8. speed_fraction (multiplier to adjust raw non-directional speed as function of wind vector to produce elliptical fire spread
+// 9. head_spead (raw ROS from McAurthur Mk 5
+//11. s_flame_height is surface fuel flame height
+//12. e_s_flame_height is combined surface and elevated fuel flame height
+//13. flame_height is all surface, elevated and bark flame_height.
+// -------------------------------------------
+REAL WRF;
+REAL ls_WRF;// % Change to Original WRF = 8.6381 * U10*EXP(-0.683)
+REAL e_to_s_proportion; //% of elevated fuel contribution to elevated and surface fuel loads.
+REAL le_WRF;
+REAL Crown_WRF;
+
+REAL U10 = length(wind_vector);
+REAL U2 = U10*speed_reduce;
+
+REAL head_speed;
+REAL LBR;
+REAL L80Speed_Fraction;
+REAL SpotDistance;
+
+REAL s_flame_height;
+REAL e_s_flame_height;
+REAL e_s_b_flame_height;
+REAL crown_flame_height;
+REAL final_flame_height;
+
+REAL s_intensity;
+REAL e_s_intensity;
+REAL e_s_b_intensity;
+REAL crown_intensity;
+REAL final_intensity;
+
+REAL FFDI;
+REAL ROS_Type;
+REAL Crown_Fuel_Multiplier;
+REAL MC;
+REAL s_speed_reduce;
+REAL e_speed_reduce;
+REAL b_speed_reduce;
+REAL c_speed_reduce;
+
+Crown_Fuel_Multiplier = 1.1;//Assumes an additional 15% of fuel load over baseline upon crowning.  Eventually include as a parameter in fuel config file so we can tailor to vegetation type.
+
+// Stage 1 - Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-30),20);
+REAL slope_coeff = pow(2.0, 0.1*slope_in_normal_dir);
+
+// Stage 2 - Calculate Baseline FMC and FFDI using Matthews (2009) reformulation of FFDI based on Fuel Moisture
+MC = 5.658 + 0.04651 * rel_hum + 0.0003151 * pow(rel_hum, 3) * pow(temp, -1) - 0.185 * pow(temp, 0.77);
+//FFDI = 2.0*exp(-0.450 + 0.987*log(drought_fac) - 0.0345*rel_hum + 0.0338*temp + 0.0234*speed_reduce*U10);//Old McArthur FDI calculation
+REAL Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10);
+FFDI = Matthews_FFDI;
+
+WRF = 1/speed_reduce;
+e_to_s_proportion = le/ls;
+ls_WRF = WRF + (e_to_s_proportion * WRF);//Assumes surface layers always higher WRF than elevated
+le_WRF = WRF - (e_to_s_proportion * WRF);
+if(le_WRF &lt; 1)
+    {
+    le_WRF = 1;
+    }
+s_speed_reduce = 1 / ls_WRF;
+e_speed_reduce = 1 / le_WRF;
+b_speed_reduce = e_speed_reduce;
+
+// Stage 4 - Calculate eliptical shape of fire development via LBR method for surface layer winds
+LBR = -4E-05 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10 + 0.9385;
+
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+L80Speed_Fraction = 1;	
+SpotDistance = 0;
+
+//**********************Calculate Surface Layer ROS and Charecteristics****************************************
+//************************************************************************************************************
+
+// Stage 5 - Raw McAurthur directionl ROS / Speed from surface fuel first wuth Matthews FFDI
+Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U2);
+//********************************************************************************
+head_speed = 0.0012 * Matthews_FFDI * ls  * 1000 * slope_coeff * speed_fraction;
+//********************************************************************************
+
+// Stage 6 - Layered engagement of flames into fuel profile
+// Calculate flame height of surface / near surface fuels based on McArthur formula found in QFES speadsheet
+s_flame_height = 13 * head_speed / 1000 + 0.24 * ls - 2;
+final_flame_height = s_flame_height;
+
+s_intensity = 516.7*ls*drought_fac/10*head_speed/ 1000;
+final_intensity = s_intensity;
+//Now incorporating elevated fuels if surface flame height >1m
+ROS_Type = 0;
+
+
+    //**********************Calculate ELevated Layer ROS and Charecteristics****************************************
+    //************************************************************************************************************
+
+	if (final_flame_height > 1)//Engage elevated fuels
+		{
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*e_speed_reduce);
+
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * (ls + le)  * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+		
+		e_s_flame_height = 13 * head_speed / 1000 + 0.24*(ls + le) - 2;
+		final_flame_height = e_s_flame_height;
+		
+		e_s_intensity = 516.7*(ls + le)*drought_fac/10*head_speed / 1000;
+		final_intensity = e_s_intensity;
+
+      	ROS_Type =1;			
+		}
+		//Now incorporating bark fuels if flame height >2m
+    //**********************Calculate Bark Layer ROS and Charecteristics****************************************
+    //************************************************************************************************************
+	if (final_flame_height > 2 )//engage bark load as well
+		{
+        Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*e_speed_reduce);
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * fuel_load * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+
+		e_s_b_flame_height = 13 * head_speed / 1000 + 0.24 * (lb + ls + le) - 2;
+		final_flame_height =  e_s_b_flame_height;
+		
+		e_s_b_intensity = 516.7*fuel_load*drought_fac/10*head_speed/ 1000;
+		final_intensity = e_s_b_intensity;
+
+       if (lb > 0)
+        {
+        SpotDistance = head_speed*(4.17-0.033*U10*speed_reduce)-0.36;
+        }
+    	ROS_Type =2;				
+		}
+    //**********************Calculate Crowning ROS and Charecteristics****************************************
+    //************************************************************************************************************
+
+	if (final_flame_height > crown_height)
+		{
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*0.9);
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * ((ls + le + lb)*Crown_Fuel_Multiplier)  * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+		
+		crown_flame_height = 13 * head_speed / 1000 + 0.24 * ((ls + le + lb)*Crown_Fuel_Multiplier) - 2;
+		final_flame_height =  crown_flame_height ;
+		
+		crown_intensity = 516.7*fuel_load*drought_fac/10*head_speed/ 1000;
+		final_intensity = crown_intensity;
+      
+        if (lb > 0)
+        {
+        SpotDistance = head_speed*(4.17-0.033*U10*0.9)-0.36;
+        }
+       ROS_Type =3;
+		}
+
+speed = head_speed /3600;// Converting spread rate into m/s
+
+if (final_intensity &lt;= 120)//Self-extinguishment proxy
+	{
+	//ROS_Type =50;
+    speed = 0;
+	}
+
+
+output1 = final_flame_height;
+output2 = ROS_Type;
+</input>
+ <input globalname="RoS 11">// Dry Eucalypt model - McArthur
+// Stage 1 - Length to bredth ratios as a function of wind speed, based on fitted formulas to CSIRO ROS model book 2015, adapted from Taylor et al 1997.
+// Stage 2 - Calculate FFDI using McArthur and Noble et al. (1980). WS CSIRO 17 Jan 2017
+// Stage 3 - Calculate Speed Fraction - % of FROS relative to the Wind Direction to produce realistic eliptical shape of fire development. WS CSIRO 17 Jan 2017
+// Stage 4 - Raw McAurthur directionl ROS / Speed from surface fuel first. WS CSIRO 17 Jan 2017
+// Stage 5 - Layered engagement of flames into fuel profile. WS CSIRO 17 Jan 2017
+// Stage 6 - Now adjust for Leaflet 80 reduced spread, Ben Twomey - % Roll off function between Mk5 and Leaflet 80. Ben Twomey (FBAN) (BT) QFES 20 Jan 2017   
+// Stage 7 - Calculate and apply slope effect. WS CSIRO 17 Jan 2017
+
+//Implemented / modified by Ben Twomey from FBAN Spreadsheet and CSIRO Publications
+// -------------------------------------------
+// Main Model parameters
+// 1. Temperature, 'temp' (input)
+// 2. Relative humidity, 'rel_hum' (input)
+// 3. Drought factor, 'drought_fac'
+// 4. Fuel load, 'fuel_load' (input)
+// 5. U10 
+
+//Outputs
+// 6. Length to Breaddth Ratio (LBR)
+// 7. FFDI (Matthews method)
+// 8. speed_fraction (multiplier to adjust raw non-directional speed as function of wind vector to produce elliptical fire spread
+// 9. head_spead (raw ROS from McAurthur Mk 5
+//11. s_flame_height is surface fuel flame height
+//12. e_s_flame_height is combined surface and elevated fuel flame height
+//13. flame_height is all surface, elevated and bark flame_height.
+// -------------------------------------------
+REAL WRF;
+REAL ls_WRF;// % Change to Original WRF = 8.6381 * U10*EXP(-0.683)
+REAL e_to_s_proportion; //% of elevated fuel contribution to elevated and surface fuel loads.
+REAL le_WRF;
+REAL Crown_WRF;
+
+REAL U10 = length(wind_vector);
+REAL U2 = U10*speed_reduce;
+
+REAL head_speed;
+REAL LBR;
+REAL L80Speed_Fraction;
+REAL SpotDistance;
+
+REAL s_flame_height;
+REAL e_s_flame_height;
+REAL e_s_b_flame_height;
+REAL crown_flame_height;
+REAL final_flame_height;
+
+REAL s_intensity;
+REAL e_s_intensity;
+REAL e_s_b_intensity;
+REAL crown_intensity;
+REAL final_intensity;
+
+REAL FFDI;
+REAL ROS_Type;
+REAL Crown_Fuel_Multiplier;
+REAL MC;
+REAL s_speed_reduce;
+REAL e_speed_reduce;
+REAL b_speed_reduce;
+REAL c_speed_reduce;
+
+Crown_Fuel_Multiplier = 1.05;//Assumes an additional 15% of fuel load over baseline upon crowning.  Eventually include as a parameter in fuel config file so we can tailor to vegetation type.
+
+// Stage 1 - Calculate slope effect
+REAL slope_in_normal_dir = degrees(atan(dot(normal_vector,grad(elevation))));
+slope_in_normal_dir = min(max(slope_in_normal_dir,-30),20);
+REAL slope_coeff = pow(2.0, 0.1*slope_in_normal_dir);
+
+// Stage 2 - Calculate Baseline FMC and FFDI using Matthews (2009) reformulation of FFDI based on Fuel Moisture
+MC = 5.658 + 0.04651 * rel_hum + 0.0003151 * pow(rel_hum, 3) * pow(temp, -1) - 0.185 * pow(temp, 0.77);
+//FFDI = 2.0*exp(-0.450 + 0.987*log(drought_fac) - 0.0345*rel_hum + 0.0338*temp + 0.0234*speed_reduce*U10);//Old McArthur FDI calculation
+REAL Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10);
+FFDI = Matthews_FFDI;
+
+WRF = 1/speed_reduce;
+e_to_s_proportion = le/ls;
+ls_WRF = WRF + (e_to_s_proportion * WRF);//Assumes surface layers always higher WRF than elevated
+le_WRF = WRF - (e_to_s_proportion * WRF);
+
+if(le_WRF &lt; 1.2)
+    {
+    le_WRF = 1.2;
+    }
+
+s_speed_reduce = 1 / ls_WRF;
+e_speed_reduce = 1 / speed_reduce;
+b_speed_reduce = e_speed_reduce;
+
+// Stage 4 - Calculate eliptical shape of fire development via LBR method for surface layer winds
+if (U10 &lt; 5)
+    {
+    LBR = 1;
+    }
+else{
+    LBR = -0.00004 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10 + 0.9385;    
+    }
+
+REAL cc = sqrt(1 - pow(LBR,-2));
+REAL cb = (1 - cc) / (1 + cc);
+REAL a_LBR = (cb + 1)/2;
+REAL cf = a_LBR / LBR;
+REAL a = cf - cb;
+REAL n = log2((1-cb)/a);
+REAL DOT = dot(normalize(wind_vector),normal_vector);
+REAL speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+L80Speed_Fraction = 1;	
+SpotDistance = 0;
+
+
+//**********************Calculate Surface Layer ROS and Charecteristics****************************************
+//************************************************************************************************************
+
+// Stage 5 - Raw McAurthur directionl ROS / Speed from surface fuel first wuth Matthews FFDI
+Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10*s_speed_reduce);
+//********************************************************************************
+head_speed = 0.0012 * Matthews_FFDI * ls  * 1000 * slope_coeff * speed_fraction;
+//********************************************************************************
+
+// Stage 6 - Layered engagement of flames into fuel profile
+// Calculate flame height of surface / near surface fuels based on McArthur formula found in QFES speadsheet
+s_flame_height = 13 * head_speed / 1000 + 0.24 * ls - 2;
+final_flame_height = s_flame_height;
+
+s_intensity = 516.7*ls*drought_fac/10*head_speed/ 1000;
+final_intensity = s_intensity;
+//Now incorporating elevated fuels if surface flame height >1m
+ROS_Type = 0;
+
+
+    //**********************Calculate ELevated Layer ROS and Charecteristics****************************************
+    //************************************************************************************************************
+
+	if (final_flame_height > 2.5)//Engage elevated fuels
+		{
+        // Stage 4 - Calculate eliptical shape of fire development via LBR method for surface layer winds
+        if (U10 &lt; 5)
+            {
+            LBR = 1;
+            }
+        else{
+            LBR = -0.00004 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10*speed_reduce + 0.9385;    
+            }
+
+        cc = sqrt(1 - pow(LBR,-2));
+        cb = (1 - cc) / (1 + cc);
+        a_LBR = (cb + 1)/2;
+        cf = a_LBR / LBR;
+        a = cf - cb;
+        n = log2((1-cb)/a);
+        DOT = dot(normalize(wind_vector),normal_vector);
+        speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10);
+
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * (ls + le)  * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+		
+		e_s_flame_height = 13 * head_speed / 1000 + 0.24*(ls + le) - 2;
+		final_flame_height = e_s_flame_height;
+		
+		e_s_intensity = 516.7*(ls + le)*drought_fac/10*head_speed / 1000;
+		final_intensity = e_s_intensity;
+
+      	ROS_Type =0;			
+		}
+		//Now incorporating bark fuels if flame height >2m
+    //**********************Calculate Bark Layer ROS and Charecteristics****************************************
+    //************************************************************************************************************
+	if (final_flame_height > 3.5 )//engage bark load as well
+		{
+       
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10);
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * fuel_load * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+
+		e_s_b_flame_height = 13 * head_speed / 1000 + 0.24 * (lb + ls + le) - 2;
+		final_flame_height =  e_s_b_flame_height;
+		
+		e_s_b_intensity = 516.7*fuel_load*drought_fac/10*head_speed/ 1000;
+		final_intensity = e_s_b_intensity;
+
+       if (lb > 0)
+        {
+        SpotDistance = head_speed*(4.17-0.033*U10*speed_reduce)-0.36;
+        }
+    	ROS_Type =0;				
+		}
+    //**********************Calculate Crowning ROS and Charecteristics****************************************
+    //************************************************************************************************************
+
+	if (final_flame_height > crown_height and slope_in_normal_dir >= 0)
+		{
+         if (U10 &lt; 5)
+            {
+            LBR = 1;
+            }
+        else{
+            LBR = -0.00004 * pow(U10, 3) + 0.0032 * pow(U10, 2) + 0.0319*U10*1.1 + 0.9385;    
+            }
+
+        cc = sqrt(1 - pow(LBR,-2));
+        cb = (1 - cc) / (1 + cc);
+        a_LBR = (cb + 1)/2;
+        cf = a_LBR / LBR;
+        a = cf - cb;
+        n = log2((1-cb)/a);
+        DOT = dot(normalize(wind_vector),normal_vector);
+        speed_fraction = cb + a* pow((DOT + 1),n);//Adjusts the speed in each grid to shape the fire into the usual eliptical shape
+
+		Matthews_FFDI = 34.81 * exp(0.987*log(drought_fac ))* pow(MC , -2.1) * exp(0.0234*U10);
+		//********************************************************************************
+		head_speed = 0.0012 * Matthews_FFDI * ((ls + le + lb)*Crown_Fuel_Multiplier)  * 1000 * slope_coeff * speed_fraction;
+		//********************************************************************************
+		
+		crown_flame_height = 13 * head_speed / 1000 + 0.24 * ((ls + le + lb)*Crown_Fuel_Multiplier) - 2;
+		final_flame_height =  crown_flame_height ;
+		
+		crown_intensity = 516.7*fuel_load*drought_fac/10*head_speed/ 1000;
+		final_intensity = crown_intensity;
+      
+        if (lb > 0)
+        {
+        SpotDistance = head_speed*(4.17-0.033*U10*0.9)-0.36;
+        }
+       ROS_Type =3;
+		}
+
+if (Matthews_FFDI &lt; 12)
+	{
+	// Stage 6 - Now account for Leaflet 80 reduced spread, Ben Twomey - % Roll off functions between Mk5 and Leaflet 80 for afternoon and other times. 
+	// These equations were fitted to FBAN spreadsheet results, so use McAurthurs formulas but introduce a more gradual roll off rather than a tstep function ROS change.
+	// Need to re-examine this with time of day check, 6am-12pm and 12pm onwards, two different roll off rates.
+	// Ben Twomey - % Roll off function to convert Mk5 ROS to something loosely approximating Leaflet 80. Not peer reviewed or verified yet, but based on fitted trend lines from original formula data.
+	if(hour > 12 &amp;&amp; hour &lt; 18)
+		{
+		//Use this roll off curve in the morning
+		L80Speed_Fraction = -0.001*pow(Matthews_FFDI, 3) + 0.0235*pow(Matthews_FFDI, 3) - 0.1649*Matthews_FFDI + 0.8998;
+		//-0.0009*pow(Matthews_FFDI, 3) + 0.0143*pow(Matthews_FFDI, 2) - 0.1174*Matthews_FFDI + 0.8805;
+		ROS_Type =0;
+		}
+	else
+		{
+		//Use this roll off curve i
+		L80Speed_Fraction = -0.0016*pow(Matthews_FFDI, 3) + 0.0236*pow(Matthews_FFDI, 2) - 0.1263*Matthews_FFDI + 0.9146;
+                       
+
+		ROS_Type =0;
+		}
+
+	head_speed *= L80Speed_Fraction;
+	s_flame_height = 13 * head_speed * 3600 / 1000 + 0.24 * fuel_load - 2;
+	final_flame_height = s_flame_height;
+
+	s_intensity = 516.7*ls*drought_fac/10*head_speed/1000;
+	final_intensity = s_intensity;
+	}
+
+
+speed = head_speed /3600;// Converting spread rate into m/s
+
+//if (final_intensity &lt;= 160)//Self-extinguishment proxy
+//	{
+//	ROS_Type =12;
+   // speed = 0;
+//	}
+
+if(final_flame_height > 50)
+    {
+    final_flame_height = -1;
+}
+output1 = final_flame_height;
+output2 = ROS_Type;
+output3 = final_intensity;</input>
+ <input globalname="RoS 12"></input>
+ <input globalname="Output 1">//Self Extinguishment Model Parameters
+if(time > 3*3600 &amp;&amp; output3 &lt;= self_extinction)//() //&amp;&amp; time - arrival > 1*3600 
+state = 0; 
+output4 = arrival;
+</input>
+ <input globalname="Output 2"></input>
+ <input globalname="Output 3"></input>
+ <input globalname="Output 4"></input>
+ <input globalname="Output 5"></input>
+ <input globalname="Output 6">if(time > 3600 &amp;&amp; output3 &lt;= self_extinction)//(time - arrival > 2*3600) //
+state = 0;
+
+output4 = arrival;
+</input>
+ <input globalname="Output 7"></input>
+ <input globalname="Output 8"></input>
+ <input globalname="Output 9">//Self Extinguishment Model Parameters
+if(time > 3*3600 &amp;&amp; output3 &lt;= 65.0)//() // &amp;&amp; time - arrival > 2*3600
+state = 0;
+
+output4 = arrival;
+</input>
+ <input globalname="Output 10"></input>
+ <input globalname="Output 11"></input>
+ <input globalname="Output 12"></input>
+ <input globalname="Shape file input projection WKT">PROJCS["GDA94 / Geoscience Australia Lambert",GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]],UNIT["metre",1,AUTHORITY["EPSG","9001"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["standard_parallel_1",-18],PARAMETER["standard_parallel_2",-36],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",134],PARAMETER["false_easting",0],PARAMETER["false_northing",0],AUTHORITY["EPSG","3112"],AXIS["Easting",EAST],AXIS["Northing",NORTH]]</input>
+ <input globalname="Shape file input source"></input>
+ <input globalname="Simulation duration hours">34</input>
+ <input globalname="Simulation projection WKT">PROJCS["GDA94 / Geoscience Australia Lambert",GEOGCS["GDA94",DATUM["Geocentric_Datum_of_Australia_1994",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6283"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4283"]],UNIT["metre",1,AUTHORITY["EPSG","9001"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["standard_parallel_1",-18],PARAMETER["standard_parallel_2",-36],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",134],PARAMETER["false_easting",0],PARAMETER["false_northing",0],AUTHORITY["EPSG","3112"],AXIS["Easting",EAST],AXIS["Northing",NORTH]]</input>
+ <input globalname="Simulation resolution">30</input>
+ <input globalname="Start point script">long = [151.037694];
+lat = [-28.185078];
+radius = [120];
+time = [0];</input>
+ <input globalname="Start time">2016-12-05T08:30:00+10:00</input>
+ <input globalname="End time">2016-12-06T12:15:00+10:00</input>
+ <input globalname="Random seed">0</input>
+ <input globalname="Slippy map URL">http://tile.openstreetmap.org/</input>
+ <input globalname="Slippy map transpose">0</input>
+ <input globalname="Slippy map text">OpenStreetMap contributors</input>
+ <input globalname="Slippy map proxy"></input>
+ <input globalname="Slippy map port">0</input>
+ <input globalname="Slippy map reproject">0</input>
+</operation>

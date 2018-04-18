@@ -1,0 +1,963 @@
+<?xml version="1.0" standalone="yes"?>
+<dsFuelType>
+  <Fuel_Type>
+    <Id>0</Id>
+    <Type_Name>No Data</Type_Name>
+    <Description>No Data</Description>
+    <Surface_r>0</Surface_r>
+    <Surface_k>0</Surface_k>
+    <Surface_c>0</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>1</Id>
+    <Type_Name>Mesophyll to Notophyll vine forest sparse</Type_Name>
+    <Description>Mesophyll to Notophyll vine forest sparse</Description>
+    <Surface_r>1.05</Surface_r>
+    <Surface_k>0.17</Surface_k>
+    <Surface_c>0.55</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0.24</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.24</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>2</Id>
+    <Type_Name>Semi-evergreen to deciduous microphyll vine forest</Type_Name>
+    <Description>Semi-evergreen to deciduous microphyll vine forest</Description>
+    <Surface_r>1.25</Surface_r>
+    <Surface_k>0.17</Surface_k>
+    <Surface_c>0.75</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0.24</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.24</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>3</Id>
+    <Type_Name>Wet Eucalypt tall open forst</Type_Name>
+    <Description>Wet Eucalypt tall open forst</Description>
+    <Surface_r>2.6</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>2</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>2.35</Elevated_c>
+    <Bark_r>0.7</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>2.35</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>4</Id>
+    <Type_Name>Wet eucalypt tall woodland</Type_Name>
+    <Description>Wet eucalypt tall woodland</Description>
+    <Surface_r>2.4</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>2.25</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>2.25</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>5</Id>
+    <Type_Name>Moist to dry eucalypt open forests on coastal lowlands and ranges</Type_Name>
+    <Description>Moist to dry eucalypt open forests on coastal lowlands and ranges</Description>
+    <Surface_r>2.4</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>2.25</Surface_c>
+    <Elevated_r>0.75</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>2.35</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>6</Id>
+    <Type_Name>Moist to dry eucalypt woodland on coastal lowlands and ranges</Type_Name>
+    <Description>Moist to dry eucalypt woodland on coastal lowlands and ranges</Description>
+    <Surface_r>2.15</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.7</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>2.05</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>7</Id>
+    <Type_Name>Shrubland within moist to dry eucalypt on coastal lowlands and ranges</Type_Name>
+    <Description>Shrubland within moist to dry eucalypt on coastal lowlands and ranges</Description>
+    <Surface_r>1.8</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.3</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>2.3</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>8</Id>
+    <Type_Name>Spotted gum dominated open forests / woodlands</Type_Name>
+    <Description>Spotted gum dominated open forests / woodlands</Description>
+    <Surface_r>2.35</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>2.1</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>2.15</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>9</Id>
+    <Type_Name>Moist to dry eucalypt woodlands on basalt areas</Type_Name>
+    <Description>Moist to dry eucalypt woodlands on basalt areas</Description>
+    <Surface_r>1.9</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>1.35</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>1.55</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>2.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>10</Id>
+    <Type_Name>Dry eucalypt open forests / woodlands on sandstone and shallow soils</Type_Name>
+    <Description>Dry eucalypt open forests / woodlands on sandstone and shallow soils</Description>
+    <Surface_r>2.3</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>2.05</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>2.25</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>11</Id>
+    <Type_Name>Dry to moist eucalypt open forests / woodlands on undulating metamorphics and granite</Type_Name>
+    <Description>Dry to moist eucalypt open forests / woodlands on undulating metamorphics and granite</Description>
+    <Surface_r>2.35</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>2.1</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>2.1</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>12</Id>
+    <Type_Name>Shrubland associated with dry to moist eucalypt woodlands on undulating terrain</Type_Name>
+    <Description>Shrubland associated with dry to moist eucalypt woodlands on undulating terrain</Description>
+    <Surface_r>1.35</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0.85</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>1.85</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>13</Id>
+    <Type_Name>Open forests / woodlands dominated by Darwin Stringybark, Melville Island bloodwood or scarlet gum</Type_Name>
+    <Description>Open forests / woodlands dominated by Darwin Stringybark, Melville Island bloodwood or scarlet gum</Description>
+    <Surface_r>2.5</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>2.45</Surface_c>
+    <Elevated_r>0.8</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.6</Elevated_c>
+    <Bark_r>0.7</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>2.35</Bark_c>
+    <Wind_Reduction_Factor>2.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>14</Id>
+    <Type_Name>Sparsely vegetated areas associated with Darwin stringybark, Melville Island bloodwood or scarlet gum or drainage lines</Type_Name>
+    <Description>Sparsely vegetated areas associated with Darwin stringybark, Melville Island bloodwood or scarlet gum or drainage lines</Description>
+    <Surface_r>0.1</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.05</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>15</Id>
+    <Type_Name>Temperate open eucalypt forests</Type_Name>
+    <Description>Temperate open eucalypt forests</Description>
+    <Surface_r>2.5</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>2.45</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.25</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>16</Id>
+    <Type_Name>Temperate eucalypt woodlands</Type_Name>
+    <Description>Temperate eucalypt woodlands</Description>
+    <Surface_r>2.36</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>2</Surface_c>
+    <Elevated_r>3</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>0.5</Elevated_c>
+    <Bark_r>2</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>1</Bark_c>
+    <Wind_Reduction_Factor>2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>17</Id>
+    <Type_Name>Eucalyptus dominated forest on drainage lines and alluvial plains</Type_Name>
+    <Description>Eucalyptus dominated forest on drainage lines and alluvial plains</Description>
+    <Surface_r>2.05</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>1.6</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>18</Id>
+    <Type_Name>Eucalyptus dominated woodland on drainage lines and alluvial plains</Type_Name>
+    <Description>Eucalyptus dominated woodland on drainage lines and alluvial plains</Description>
+    <Surface_r>1.85</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>1.35</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>1.55</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>19</Id>
+    <Type_Name>Shrubland associated with eucalyptus woodlands on drainage lines</Type_Name>
+    <Description>Shrubland associated with eucalyptus woodlands on drainage lines</Description>
+    <Surface_r>1.6</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.05</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>0.6</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>20</Id>
+    <Type_Name>Sedgeland associated with Eucalyptus woodlands on drainage lines</Type_Name>
+    <Description>Sedgeland associated with Eucalyptus woodlands on drainage lines</Description>
+    <Surface_r>1.45</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>0.9</Surface_c>
+    <Elevated_r>0.8</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>2.65</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>21</Id>
+    <Type_Name>Dry open forests / woodlands on sand or depositional plains</Type_Name>
+    <Description>Dry open forests / woodlands on sand or depositional plains</Description>
+    <Surface_r>2.1</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>1.7</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>1.65</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>22</Id>
+    <Type_Name>Low open eucalyptus woodlands dominated by snappy gum, Cloncurry Box or Normanton box</Type_Name>
+    <Description>Low open eucalyptus woodlands dominated by snappy gum, Cloncurry Box or Normanton box</Description>
+    <Surface_r>1.45</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0.9</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>1.8</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>23</Id>
+    <Type_Name>Shrubland / Grassland associated with low open eucalypt woodlands dominated by snappy gum, Cloncurry Box or Normanton box</Type_Name>
+    <Description>Shrubland / Grassland associated with low open eucalypt woodlands dominated by snappy gum, Cloncurry Box or Normanton box</Description>
+    <Surface_r>1.35</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>0.35</Surface_c>
+    <Elevated_r>1</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>1.75</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>24</Id>
+    <Type_Name>Open forests dominated by white cypress pine or coast cypress pine</Type_Name>
+    <Description>Open forests dominated by white cypress pine or coast cypress pine</Description>
+    <Surface_r>2.15</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.7</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>1.65</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>2.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>25</Id>
+    <Type_Name>Woodlands dominated by white cypress pine or coast cypress pine</Type_Name>
+    <Description>Woodlands dominated by white cypress pine or coast cypress pine</Description>
+    <Surface_r>1.6</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.05</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>1.8</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>26</Id>
+    <Type_Name>Melaleuca dry open forest on sandplains or depositional plains</Type_Name>
+    <Description>Melaleuca dry open forest on sandplains or depositional plains</Description>
+    <Surface_r>1.9</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.35</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>2.1</Elevated_c>
+    <Bark_r>0.7</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>2.35</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>27</Id>
+    <Type_Name>Melalueca dry woodlands on sandplains or depositional plains</Type_Name>
+    <Description>Melalueca dry woodlands on sandplains or depositional plains</Description>
+    <Surface_r>1.4</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>0.9</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>1.85</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>28</Id>
+    <Type_Name>Melaleuca open forests on seasonally inundated lowland coastal swamps</Type_Name>
+    <Description>Melaleuca open forests on seasonally inundated lowland coastal swamps</Description>
+    <Surface_r>2.45</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>2.45</Surface_c>
+    <Elevated_r>0.75</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>2.6</Elevated_c>
+    <Bark_r>0.7</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>2.35</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>29</Id>
+    <Type_Name>Melaluca woodlands on seasonally inundated lowland coastal swamps</Type_Name>
+    <Description>Melaluca woodlands on seasonally inundated lowland coastal swamps</Description>
+    <Surface_r>2.3</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.95</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.29</Elevated_k>
+    <Elevated_c>2.25</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>30</Id>
+    <Type_Name>Mulga / Shrubland / Grassland associated with mulga on red earth plains, sandplains or residuals</Type_Name>
+    <Description>Mulga / Shrubland / Grassland associated with mulga on red earth plains, sandplains or residuals</Description>
+    <Surface_r>1.35</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>0.35</Surface_c>
+    <Elevated_r>0.95</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>0.95</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>31</Id>
+    <Type_Name>Acacia open forest / woodlands on residuals</Type_Name>
+    <Description>Acacia open forest / woodlands on residuals</Description>
+    <Surface_r>1.7</Surface_r>
+    <Surface_k>0.45</Surface_k>
+    <Surface_c>1.15</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.78</Elevated_k>
+    <Elevated_c>1.85</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.48</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>32</Id>
+    <Type_Name>Shrublands / Grassland associated with Acacia on residuals</Type_Name>
+    <Description>Shrublands / Grassland associated with Acacia on residuals</Description>
+    <Surface_r>1.35</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0.35</Surface_c>
+    <Elevated_r>1</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.05</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>33</Id>
+    <Type_Name>Brigalow belah open forests / woodlands on heavy clay soils</Type_Name>
+    <Description>Brigalow belah open forests / woodlands on heavy clay soils</Description>
+    <Surface_r>2</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>1.55</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.3</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>34</Id>
+    <Type_Name>Brigalow belah woodlands on heavy clay soils</Type_Name>
+    <Description>Brigalow belah woodlands on heavy clay soils</Description>
+    <Surface_r>1.2</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0.7</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>1.75</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>35</Id>
+    <Type_Name>Gidgee blackwood dominated open forest</Type_Name>
+    <Description>Gidgee blackwood dominated open forest</Description>
+    <Surface_r>1.4</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0.9</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.1</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>36</Id>
+    <Type_Name>Gidgee blackwood woodland</Type_Name>
+    <Description>Gidgee blackwood woodland</Description>
+    <Surface_r>0.85</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0.45</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.15</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0.49</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>37</Id>
+    <Type_Name>Mixed species open forests / woodlands dominated by western whitewood, boree or wooded downs</Type_Name>
+    <Description>Mixed species open forests / woodlands dominated by western whitewood, boree or wooded downs</Description>
+    <Surface_r>1.05</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>0.55</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>1.25</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>38</Id>
+    <Type_Name>Grassland communities associated with mixed spcies woodlands</Type_Name>
+    <Description>Grassland communities associated with mixed spcies woodlands</Description>
+    <Surface_r>0.95</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.5</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>39</Id>
+    <Type_Name>Sedgeland communities associated with mixed species woodlands</Type_Name>
+    <Description>Sedgeland communities associated with mixed species woodlands</Description>
+    <Surface_r>1.25</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.75</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>0.6</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>40</Id>
+    <Type_Name>Open forests in coastal locations with species such as she-oak or swamp box</Type_Name>
+    <Description>Open forests in coastal locations with species such as she-oak or swamp box</Description>
+    <Surface_r>2.5</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>2.55</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.1</Elevated_k>
+    <Elevated_c>2.35</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>41</Id>
+    <Type_Name>Shrubland / Woodlands in coastal locations</Type_Name>
+    <Description>Shrubland / Woodlands in coastal locations</Description>
+    <Surface_r>2.25</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>1.9</Surface_c>
+    <Elevated_r>0.75</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>2.45</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>42</Id>
+    <Type_Name>Grassland associated with woodlands in coastal locations</Type_Name>
+    <Description>Grassland associated with woodlands in coastal locations</Description>
+    <Surface_r>1.1</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.3</Surface_c>
+    <Elevated_r>0.95</Elevated_r>
+    <Elevated_k>0.1</Elevated_k>
+    <Elevated_c>0.95</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>43</Id>
+    <Type_Name>Sedgeland associated with woodlands in coastal locations</Type_Name>
+    <Description>Sedgeland associated with woodlands in coastal locations</Description>
+    <Surface_r>1.45</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.9</Surface_c>
+    <Elevated_r>0.8</Elevated_r>
+    <Elevated_k>0.1</Elevated_k>
+    <Elevated_c>2.65</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>44</Id>
+    <Type_Name>Forests associated with heathlands and scrubs</Type_Name>
+    <Description>Forests associated with heathlands and scrubs</Description>
+    <Surface_r>1.76</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>2.6</Surface_c>
+    <Elevated_r>2.4</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.2</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>45</Id>
+    <Type_Name>Woodlands / Heathlands associated scrubs and shrublands</Type_Name>
+    <Description>Woodlands / Heathlands associated scrubs and shrublands</Description>
+    <Surface_r>1.1</Surface_r>
+    <Surface_k>0.39</Surface_k>
+    <Surface_c>3.15</Surface_c>
+    <Elevated_r>2.25</Elevated_r>
+    <Elevated_k>0.9</Elevated_k>
+    <Elevated_c>2.75</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>46</Id>
+    <Type_Name>Grassland / Sedgeland communities associated with heathlands, scrubs and shrublands</Type_Name>
+    <Description>Grassland / Sedgeland communities associated with heathlands, scrubs and shrublands</Description>
+    <Surface_r>2.1</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.7</Surface_c>
+    <Elevated_r>1.1</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>2.35</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>47</Id>
+    <Type_Name>Woodlands / Shrublands associated with Mitchell grass or bluegrass</Type_Name>
+    <Description>Woodlands / Shrublands associated with Mitchell grass or bluegrass</Description>
+    <Surface_r>0.9</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.5</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>2.1</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>48</Id>
+    <Type_Name>Sedgelands associated with Mitchell grass or bluegrass</Type_Name>
+    <Description>Sedgelands associated with Mitchell grass or bluegrass</Description>
+    <Surface_r>1.55</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.45</Surface_c>
+    <Elevated_r>0.95</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>0.3</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>49</Id>
+    <Type_Name>Woodlands / Shrublands associated with inland forblands to tussock grasslands</Type_Name>
+    <Description>Woodlands / Shrublands associated with inland forblands to tussock grasslands</Description>
+    <Surface_r>0.95</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>0.5</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>2.1</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>50</Id>
+    <Type_Name>Mixed open forblands to tussock grasslands in inland locations</Type_Name>
+    <Description>Mixed open forblands to tussock grasslands in inland locations</Description>
+    <Surface_r>0.8</Surface_r>
+    <Surface_k>0.53</Surface_k>
+    <Surface_c>0.2</Surface_c>
+    <Elevated_r>0.95</Elevated_r>
+    <Elevated_k>0.51</Elevated_k>
+    <Elevated_c>0.3</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>51</Id>
+    <Type_Name>Woodlands / Shrubland associated with coastal tussock grasslands</Type_Name>
+    <Description>Woodlands / Shrubland associated with coastal tussock grasslands</Description>
+    <Surface_r>1.4</Surface_r>
+    <Surface_k>0.37</Surface_k>
+    <Surface_c>0.85</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.3</Elevated_k>
+    <Elevated_c>2.1</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>52</Id>
+    <Type_Name>Shrublands / Sedgeland associated with hummock grasslands / grasslands dominated by spinifex or sandhill canegrass</Type_Name>
+    <Description>Shrublands / Sedgeland associated with hummock grasslands / grasslands dominated by spinifex or sandhill canegrass</Description>
+    <Surface_r>0.85</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.2</Surface_c>
+    <Elevated_r>1</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>1.8</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>53</Id>
+    <Type_Name>Open forest dominated wetlands</Type_Name>
+    <Description>Open forest dominated wetlands</Description>
+    <Surface_r>1.7</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.15</Surface_c>
+    <Elevated_r>0.9</Elevated_r>
+    <Elevated_k>0.25</Elevated_k>
+    <Elevated_c>2.95</Elevated_c>
+    <Bark_r>0.7</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>2.25</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>54</Id>
+    <Type_Name>Woodland / Shrubland / Grass dominated by wetlands</Type_Name>
+    <Description>Woodland / Shrubland / Grass dominated by wetlands</Description>
+    <Surface_r>1.35</Surface_r>
+    <Surface_k>0.37</Surface_k>
+    <Surface_c>0.8</Surface_c>
+    <Elevated_r>0.75</Elevated_r>
+    <Elevated_k>0.3</Elevated_k>
+    <Elevated_c>2.4</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.2</Bark_k>
+    <Bark_c>2.1</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>55</Id>
+    <Type_Name>Mangroves / Sedgeland dominated wetlands and tidal saltmarshes</Type_Name>
+    <Description>Mangroves / Sedgeland dominated wetlands and tidal saltmarshes</Description>
+    <Surface_r>1.7</Surface_r>
+    <Surface_k>0.25</Surface_k>
+    <Surface_c>1.1</Surface_c>
+    <Elevated_r>0.65</Elevated_r>
+    <Elevated_k>0.1</Elevated_k>
+    <Elevated_c>1</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>56</Id>
+    <Type_Name>Exotic &amp; hardood plantation</Type_Name>
+    <Description>Exotic &amp; hardood plantation</Description>
+    <Surface_r>2.5</Surface_r>
+    <Surface_k>0.66</Surface_k>
+    <Surface_c>2.45</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.12</Elevated_k>
+    <Elevated_c>2</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>3.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>57</Id>
+    <Type_Name>Hoop plantations</Type_Name>
+    <Description>Hoop plantations</Description>
+    <Surface_r>1.1</Surface_r>
+    <Surface_k>0.1</Surface_k>
+    <Surface_c>0.65</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0.1</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>58</Id>
+    <Type_Name>Cropping and Horticulture</Type_Name>
+    <Description>Cropping and Horticulture</Description>
+    <Surface_r>0.9</Surface_r>
+    <Surface_k>0.66</Surface_k>
+    <Surface_c>0.5</Surface_c>
+    <Elevated_r>3.55</Elevated_r>
+    <Elevated_k>0.12</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>3</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>59</Id>
+    <Type_Name>Low to moderate tree cover in built-up areas</Type_Name>
+    <Description>Low to moderate tree cover in built-up areas</Description>
+    <Surface_r>1.1</Surface_r>
+    <Surface_k>0.9</Surface_k>
+    <Surface_c>0.65</Surface_c>
+    <Elevated_r>0.7</Elevated_r>
+    <Elevated_k>0.12</Elevated_k>
+    <Elevated_c>2.35</Elevated_c>
+    <Bark_r>0.65</Bark_r>
+    <Bark_k>0.25</Bark_k>
+    <Bark_c>1.95</Bark_c>
+    <Wind_Reduction_Factor>2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>60</Id>
+    <Type_Name>Low grass or tree cover in rural areas</Type_Name>
+    <Description>Low grass or tree cover in rural areas</Description>
+    <Surface_r>1.15</Surface_r>
+    <Surface_k>0.2</Surface_k>
+    <Surface_c>0.3</Surface_c>
+    <Elevated_r>0.95</Elevated_r>
+    <Elevated_k>0.85</Elevated_k>
+    <Elevated_c>1.65</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>61</Id>
+    <Type_Name>Low grass or tree cover in built-up areas</Type_Name>
+    <Description>Low grass or tree cover in built-up areas</Description>
+    <Surface_r>0.9</Surface_r>
+    <Surface_k>0.2</Surface_k>
+    <Surface_c>0.2</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.5</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>62</Id>
+    <Type_Name>Nil to very low vegetation cover</Type_Name>
+    <Description>Nil to very low vegetation cover</Description>
+    <Surface_r>0.5</Surface_r>
+    <Surface_k>0.2</Surface_k>
+    <Surface_c>0.25</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1.2</Wind_Reduction_Factor>
+  </Fuel_Type>
+  <Fuel_Type>
+    <Id>63</Id>
+    <Type_Name>Water bodies or very low vegetation cover</Type_Name>
+    <Description>Water bodies or very low vegetation cover</Description>
+    <Surface_r>0</Surface_r>
+    <Surface_k>0</Surface_k>
+    <Surface_c>0</Surface_c>
+    <Elevated_r>0</Elevated_r>
+    <Elevated_k>0</Elevated_k>
+    <Elevated_c>0</Elevated_c>
+    <Bark_r>0</Bark_r>
+    <Bark_k>0</Bark_k>
+    <Bark_c>0</Bark_c>
+    <Wind_Reduction_Factor>1</Wind_Reduction_Factor>
+  </Fuel_Type>
+</dsFuelType>
